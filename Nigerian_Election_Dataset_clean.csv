@@ -1,0 +1,445 @@
+AgeGroup,Gender,Zone,HighestEducation,EmploymentStatus,MonthlyPersonalIncome,Q8_Understanding,Q10_INEC_Fair,Q6_Transparency,Q9_TrustCount,Q11_MaterialsAdequate,Q12_INEC_onTime,Q13_ViolenceCommon,Q14_OfficersInfluence,Q16_SafeParticipation,Q17_VoteForState,Q18_VoteForFriend,Q19_Pressured,Q20_CampaignActiveDeserve,Q21_GiftsShowCare,Q22_ReceivingGiftsNormal,Q23_ReceivedGifts,Q24_EconomicHardship,Q25_PeopleSellVotes,Q26_AcceptingMoneySurvival,Q27_SellingJustified,Q28_VoteForFinancialAssistance,Q29_LackAccountabilityEncouragesVoteSelling,Q30_ChooseCandidatesCompetence,Q31_RelyOnLeaders,Q32_ResearchCandidates,Q33_GiftsMoreLikelyWin,Q34_PeopleNoTrustElections,Target
+26 - 35,Female,North Central,Secondary school certificate,Formal full-time,"Less than ₦20,000",2,2,2,1,2,3,3,2,2,3,4,4,2,3,5,0,4,3,5,3,5,2,5,3,2,3,3,0
+60+,Male,North Central,Secondary school certificate,Formal full-time,"₦100,000 - ₦199,000",2,2,1,1,3,3,3,2,2,3,3,2,3,3,3,0,3,2,2,1,4,3,4,3,2,2,2,0
+36 - 46,Female,North Central,Did not attend,Unemployed and looking,"₦100,000 - ₦199,000",1,1,1,1,2,1,2,3,3,2,2,3,4,3,1,0,4,2,2,1,2,3,4,4,4,3,4,1
+26 - 35,Male,North West,Post Graduate,Unemployed and looking,"Less than ₦20,000",3,2,2,2,4,4,2,3,3,2,1,5,3,3,2,0,3,2,4,3,4,3,3,4,3,2,3,0
+18 - 25,Female,North Central,Primary 6,Self-employed,"₦50,000 - ₦99,000",2,2,2,2,2,3,2,2,3,2,2,2,3,1,1,0,4,3,3,1,3,5,4,3,3,2,3,0
+18 - 25,Male,South East,OND,Student,"₦100,000 - ₦199,000",2,2,1,1,4,3,4,4,1,4,1,2,3,4,1,1,4,3,4,2,3,2,2,3,4,2,4,0
+18 - 25,Female,North West,Secondary school certificate,Student,"₦100,000 - ₦199,000",2,2,1,1,4,4,3,4,2,2,2,4,3,3,5,0,4,2,3,2,2,3,4,5,4,3,3,0
+46 - 60,Female,North West,OND,Self-employed,"₦50,000 - ₦99,000",2,1,1,1,2,2,4,3,1,2,3,4,3,3,5,0,3,2,3,2,2,3,4,4,3,2,2,0
+26 - 35,Female,North Central,B.Sc/HND/B.Eng,Student,"₦50,000 - ₦99,000",2,2,1,1,4,3,2,1,4,3,2,4,3,4,2,1,3,2,3,1,4,3,4,2,3,4,3,0
+36 - 46,Male,South South,B.Sc/HND/B.Eng,Formal full-time,"₦50,000 - ₦99,000",3,2,1,2,3,3,2,3,4,2,3,4,4,4,3,1,2,1,3,1,3,4,5,3,3,3,3,0
+18 - 25,Female,South West,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,2,2,2,3,4,4,2,2,1,2,5,4,4,2,1,4,3,3,2,4,3,2,3,3,3,4,1
+60+,Female,South West,Did not attend,Formal full-time,"₦50,000 - ₦99,000",1,1,1,1,2,1,1,3,4,3,3,2,3,3,3,1,3,2,4,2,3,4,3,3,3,2,3,0
+46 - 60,Female,North Central,Primary 6,Formal full-time,"₦50,000 - ₦99,000",1,1,1,1,1,3,2,3,3,2,1,2,4,3,4,0,3,1,2,1,4,3,3,2,3,3,5,0
+18 - 25,Female,South West,Post Graduate,Self-employed,"₦200,000 - ₦499,000",3,2,1,2,3,2,2,1,3,2,2,4,2,3,4,0,3,2,4,2,2,3,3,3,3,3,5,0
+18 - 25,Female,North West,B.Sc/HND/B.Eng,Student,"₦50,000 - ₦99,000",2,1,1,1,2,3,3,3,2,3,3,2,5,3,3,0,3,2,3,1,2,4,4,5,3,3,4,0
+18 - 25,Male,South West,OND,Formal full-time,"₦100,000 - ₦199,000",2,2,1,2,3,3,2,3,3,2,3,2,2,5,3,0,3,2,3,1,4,3,1,3,3,5,2,0
+18 - 25,Female,South South,B.Sc/HND/B.Eng,Formal full-time,"Less than ₦20,000",3,2,3,2,3,2,3,3,3,3,1,5,4,5,4,0,5,3,3,2,3,4,4,1,2,3,5,0
+26 - 35,Female,South West,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",2,2,1,2,4,2,3,2,2,2,2,2,2,4,4,0,4,3,3,2,5,3,3,4,4,4,5,0
+26 - 35,Female,South South,Secondary school certificate,Student,"Less than ₦20,000",1,1,2,1,3,3,3,4,2,3,4,3,3,1,4,2,4,3,2,2,4,4,2,4,2,4,4,0
+18 - 25,Male,South East,Post Graduate,Part-time,"Less than ₦20,000",3,2,2,2,3,2,1,1,4,4,2,3,4,2,3,1,5,3,2,2,3,3,3,3,3,3,5,0
+26 - 35,Male,North West,Secondary school certificate,Self-employed,"₦100,000 - ₦199,000",2,1,1,1,4,4,3,4,2,1,3,4,2,5,3,0,3,2,3,1,1,4,3,4,2,2,3,0
+18 - 25,Female,South South,Secondary school certificate,Formal full-time,"Above ₦500,000",2,2,1,1,3,2,4,3,2,3,4,1,5,4,3,2,4,2,3,2,3,3,4,2,3,3,2,1
+18 - 25,Female,North West,OND,Formal full-time,"Less than ₦20,000",3,2,3,2,3,1,4,4,1,3,2,4,3,4,3,2,5,3,5,3,4,3,3,3,3,4,3,0
+26 - 35,Male,South West,Did not attend,Retired,"₦20,000 - ₦49,000",1,1,1,1,3,2,1,3,4,3,2,3,4,3,3,0,3,3,3,2,5,4,2,5,3,3,5,0
+26 - 35,Female,North West,Secondary school certificate,Retired,"₦100,000 - ₦199,000",2,1,1,1,2,2,3,4,2,2,3,4,4,2,2,0,4,3,2,1,4,4,2,3,4,4,2,0
+36 - 46,Male,North West,B.Sc/HND/B.Eng,Formal full-time,"Less than ₦20,000",2,1,2,1,4,2,1,3,4,3,4,2,4,5,2,2,4,3,2,2,3,2,4,2,4,4,4,2
+18 - 25,Male,North Central,Primary 6,Student,"₦50,000 - ₦99,000",2,2,1,1,4,2,3,2,3,4,3,4,2,2,3,0,4,2,4,2,4,5,2,3,2,2,4,0
+26 - 35,Male,North East,B.Sc/HND/B.Eng,Self-employed,"₦100,000 - ₦199,000",3,2,1,2,2,3,5,4,1,3,3,2,3,3,2,0,5,3,4,2,3,2,4,3,3,2,3,0
+26 - 35,Male,North Central,Secondary school certificate,Student,"₦50,000 - ₦99,000",2,1,1,1,3,4,1,3,4,3,2,1,4,2,2,0,4,3,4,2,4,3,3,4,4,3,3,0
+18 - 25,Female,South West,Secondary school certificate,Self-employed,"Less than ₦20,000",2,2,3,2,3,3,2,3,4,3,3,2,3,3,3,2,4,3,4,3,4,3,3,3,4,3,4,0
+26 - 35,Male,North West,Secondary school certificate,Self-employed,"₦20,000 - ₦49,000",2,2,2,1,3,2,4,4,1,2,3,3,3,4,4,0,4,3,4,3,2,4,4,3,3,5,3,0
+18 - 25,Female,South West,B.Sc/HND/B.Eng,Unemployed and looking,"₦50,000 - ₦99,000",2,1,1,1,4,3,2,3,4,3,3,2,3,2,3,2,4,2,3,1,2,2,2,3,4,3,4,2
+46 - 60,Female,North East,Secondary school certificate,Formal full-time,"Less than ₦20,000",2,2,2,2,4,2,4,2,1,2,3,2,4,3,3,0,4,3,4,3,3,3,2,2,4,2,5,0
+60+,Female,South East,OND,Formal full-time,"₦100,000 - ₦199,000",2,1,1,1,2,2,2,3,3,3,3,4,2,1,2,0,3,2,3,1,4,1,5,4,1,3,4,0
+36 - 46,Male,South West,Secondary school certificate,Part-time,"Less than ₦20,000",2,2,2,1,4,1,2,3,3,3,2,2,4,2,3,2,3,2,2,2,4,3,5,3,3,4,3,2
+18 - 25,Female,South South,B.Sc/HND/B.Eng,Unemployed and looking,"₦100,000 - ₦199,000",2,1,1,1,4,3,3,1,2,4,2,3,3,3,4,1,4,2,2,1,4,4,5,3,5,3,2,0
+18 - 25,Female,South West,Post Graduate,Formal full-time,"Less than ₦20,000",3,3,3,2,4,3,3,2,3,3,2,3,3,3,4,2,4,3,4,2,4,5,3,3,2,3,3,1
+36 - 46,Male,North Central,B.Sc/HND/B.Eng,Unemployed and looking,"Above ₦500,000",3,1,1,1,4,3,3,4,3,2,2,3,3,3,4,0,5,3,3,1,1,3,2,2,3,2,5,0
+18 - 25,Female,North East,Did not attend,Formal full-time,"₦20,000 - ₦49,000",1,1,1,1,4,2,4,3,1,2,2,3,3,5,4,0,5,4,4,3,4,4,2,3,2,4,5,0
+26 - 35,Female,North East,Secondary school certificate,Unemployed and looking,"Less than ₦20,000",1,1,1,1,3,3,3,3,2,3,2,3,4,2,4,0,4,3,5,3,3,3,3,3,2,3,4,2
+18 - 25,Female,South East,OND,Self-employed,"₦20,000 - ₦49,000",2,2,1,1,4,2,3,3,2,3,5,2,3,3,4,1,5,4,3,2,3,2,4,4,3,2,4,2
+46 - 60,Female,North Central,Primary 6,Student,"₦200,000 - ₦499,000",2,2,1,1,3,3,2,4,3,5,2,2,5,3,2,0,3,2,3,1,1,4,4,3,4,4,4,0
+18 - 25,Male,South East,Secondary school certificate,Formal full-time,"Above ₦500,000",2,2,1,1,3,2,2,3,3,4,4,4,3,3,3,0,4,2,2,1,2,2,3,4,4,5,4,0
+36 - 46,Female,South South,OND,Unemployed and looking,"₦20,000 - ₦49,000",2,2,2,2,3,2,1,3,4,4,1,3,3,5,4,0,3,3,3,2,3,5,2,3,2,4,3,0
+18 - 25,Female,South South,Secondary school certificate,Student,"₦20,000 - ₦49,000",2,3,2,2,4,1,2,4,3,3,3,5,4,2,4,1,5,3,4,3,4,3,2,4,2,4,2,0
+26 - 35,Male,South South,B.Sc/HND/B.Eng,Student,"₦100,000 - ₦199,000",2,1,1,1,2,3,2,2,4,3,2,4,4,4,3,0,2,1,3,1,3,4,4,3,5,4,4,1
+26 - 35,Male,North Central,Primary 6,Unemployed and looking,"₦200,000 - ₦499,000",2,2,1,1,4,4,1,4,4,3,2,2,2,3,5,0,3,2,4,2,4,3,4,3,4,3,5,0
+18 - 25,Male,North East,Primary 6,Self-employed,"₦50,000 - ₦99,000",1,2,1,1,3,3,4,2,2,3,3,3,2,1,2,0,4,2,3,2,2,4,3,3,3,4,3,0
+60+,Female,South West,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",2,2,1,1,2,4,3,4,3,3,3,2,3,3,4,1,4,3,3,2,4,4,2,2,4,2,4,0
+36 - 46,Female,North Central,Secondary school certificate,Student,"₦20,000 - ₦49,000",1,1,1,1,3,3,3,3,2,3,2,2,2,4,3,0,3,3,5,3,4,3,3,3,3,3,5,0
+46 - 60,Male,South West,B.Sc/HND/B.Eng,Self-employed,"₦50,000 - ₦99,000",3,2,1,2,1,2,2,3,3,3,2,3,5,1,3,0,4,2,3,1,3,3,4,3,4,4,4,0
+46 - 60,Female,South East,Secondary school certificate,Formal full-time,"Less than ₦20,000",2,2,2,1,4,3,3,1,2,3,1,4,4,1,3,2,4,3,5,3,3,4,2,3,2,3,3,0
+26 - 35,Male,South West,Secondary school certificate,Student,"₦50,000 - ₦99,000",2,2,1,1,4,2,3,2,2,2,3,3,3,1,4,0,3,2,3,1,4,3,2,4,3,2,4,1
+46 - 60,Female,North Central,B.Sc/HND/B.Eng,Unemployed and looking,"₦20,000 - ₦49,000",3,3,2,2,3,4,3,2,3,1,2,2,3,3,4,0,4,3,4,3,4,2,4,2,2,3,3,0
+18 - 25,Female,North West,B.Sc/HND/B.Eng,Unemployed and looking,"₦100,000 - ₦199,000",2,1,1,1,3,2,2,3,3,4,3,3,3,2,3,0,5,3,4,2,2,5,3,3,3,2,3,0
+18 - 25,Female,North Central,B.Sc/HND/B.Eng,Formal full-time,"Less than ₦20,000",2,2,2,2,5,4,3,3,3,5,3,3,1,3,3,0,5,4,4,2,3,4,5,4,3,3,4,2
+18 - 25,Male,North West,Secondary school certificate,Unemployed and looking,"₦50,000 - ₦99,000",1,1,1,1,3,4,3,4,2,4,3,2,2,2,2,0,5,3,1,1,2,3,3,3,3,3,2,0
+18 - 25,Male,South South,OND,Self-employed,"₦20,000 - ₦49,000",2,2,2,2,2,5,2,3,3,2,2,4,5,2,3,0,5,4,4,2,4,5,2,3,2,5,2,2
+26 - 35,Male,North East,Secondary school certificate,Unemployed and looking,"₦50,000 - ₦99,000",2,2,1,1,4,2,1,3,4,3,4,3,5,2,3,0,4,2,4,2,2,3,3,3,3,2,4,0
+18 - 25,Male,North West,Primary 6,Formal full-time,"Less than ₦20,000",1,1,1,1,5,3,3,2,2,4,2,2,3,2,1,1,2,2,4,3,3,5,3,3,1,4,4,0
+36 - 46,Female,North West,Post Graduate,Unemployed and looking,"₦50,000 - ₦99,000",3,1,1,1,3,5,5,2,1,2,1,2,4,4,3,0,3,2,3,1,3,4,3,2,4,2,4,0
+26 - 35,Female,South West,Primary 6,Retired,"₦50,000 - ₦99,000",1,2,1,1,4,2,2,5,3,3,2,4,4,5,5,0,3,2,1,1,3,3,2,3,3,1,5,2
+18 - 25,Prefer not to say,South West,Post Graduate,Formal full-time,"₦50,000 - ₦99,000",3,2,1,2,4,2,2,2,4,2,3,3,4,1,3,0,2,1,2,1,4,5,4,4,2,3,4,0
+26 - 35,Prefer not to say,North East,Secondary school certificate,Retired,"₦50,000 - ₦99,000",2,2,1,1,2,1,4,4,2,4,2,4,2,2,2,0,3,1,3,2,3,4,4,2,2,3,4,0
+18 - 25,Female,North West,Secondary school certificate,Self-employed,"₦50,000 - ₦99,000",2,2,1,1,3,3,3,3,2,3,3,5,2,2,3,0,2,1,3,2,3,3,4,3,3,2,3,0
+36 - 46,Female,North Central,OND,Student,"₦100,000 - ₦199,000",2,1,1,1,4,1,4,3,2,2,2,4,4,3,3,2,4,2,4,2,3,4,4,2,3,2,4,0
+18 - 25,Female,North East,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",3,2,2,2,4,3,2,4,3,3,2,3,1,4,3,1,5,4,3,2,4,3,3,3,3,3,3,1
+60+,Female,South West,B.Sc/HND/B.Eng,Self-employed,"₦100,000 - ₦199,000",3,3,1,2,4,3,3,4,2,4,2,1,3,2,4,0,5,3,3,1,3,4,5,2,4,4,4,0
+36 - 46,Male,South West,B.Sc/HND/B.Eng,Unemployed and looking,"₦20,000 - ₦49,000",2,1,1,1,2,3,3,3,2,3,3,3,3,3,3,2,5,3,4,2,2,1,2,3,4,4,4,0
+18 - 25,Male,North West,B.Sc/HND/B.Eng,Self-employed,"Less than ₦20,000",2,1,2,1,3,3,3,3,2,3,2,3,3,3,5,0,3,2,1,1,2,4,2,4,4,3,2,2
+36 - 46,Female,South South,B.Sc/HND/B.Eng,Part-time,"₦20,000 - ₦49,000",3,2,2,2,3,4,3,3,2,2,2,1,3,5,3,2,3,2,4,2,5,3,3,2,3,3,2,2
+36 - 46,Female,North Central,Secondary school certificate,Unemployed and looking,"₦100,000 - ₦199,000",2,2,1,1,3,2,3,4,2,2,1,2,4,3,3,0,2,1,3,2,3,4,3,3,3,2,3,1
+36 - 46,Male,South West,Secondary school certificate,Student,"₦100,000 - ₦199,000",2,1,1,1,4,2,1,3,4,3,3,3,3,2,3,0,3,2,2,1,3,2,3,3,3,2,4,0
+26 - 35,Male,North West,Post Graduate,Self-employed,"₦20,000 - ₦49,000",3,1,1,1,4,4,3,3,2,2,1,3,3,2,2,0,5,3,3,2,2,3,3,4,3,3,4,0
+18 - 25,Male,South West,Did not attend,Student,"Less than ₦20,000",1,1,1,1,3,3,3,3,2,3,2,3,4,3,5,0,4,3,4,3,4,3,2,4,4,4,3,0
+46 - 60,Female,South South,B.Sc/HND/B.Eng,Formal full-time,"₦20,000 - ₦49,000",3,2,2,2,4,4,2,1,3,4,2,5,3,3,4,0,4,3,5,3,3,4,2,2,2,3,2,0
+18 - 25,Female,North West,Secondary school certificate,Formal full-time,"Less than ₦20,000",2,2,2,1,3,4,3,4,2,2,3,4,4,5,3,2,3,3,3,2,3,4,2,3,3,2,5,2
+18 - 25,Female,North West,OND,Part-time,"Less than ₦20,000",2,2,2,1,3,4,2,3,3,4,3,3,4,3,5,2,5,4,3,2,3,5,4,5,3,4,3,0
+18 - 25,Female,North Central,Post Graduate,Self-employed,"₦50,000 - ₦99,000",3,1,1,1,2,4,2,2,3,2,1,3,2,3,3,0,4,2,4,2,3,3,4,3,3,3,4,0
+18 - 25,Female,North West,Did not attend,Self-employed,"₦100,000 - ₦199,000",1,1,1,1,3,4,3,4,2,2,2,2,4,1,4,0,4,2,1,1,2,3,4,5,2,1,4,2
+36 - 46,Female,North West,B.Sc/HND/B.Eng,Unemployed and looking,"Above ₦500,000",3,2,1,2,3,2,4,3,1,1,2,2,5,4,1,0,4,2,5,2,4,2,2,2,3,2,3,0
+46 - 60,Male,North Central,Post Graduate,Self-employed,"₦50,000 - ₦99,000",3,2,1,2,5,2,1,3,4,4,3,3,3,3,2,0,3,1,3,1,3,4,5,2,4,3,5,0
+26 - 35,Male,North East,Post Graduate,Formal full-time,"₦20,000 - ₦49,000",3,2,2,2,2,4,5,2,1,1,2,3,4,3,3,0,4,3,3,2,4,3,2,2,3,2,3,0
+18 - 25,Male,South South,Post Graduate,Self-employed,"₦50,000 - ₦99,000",3,2,2,2,3,2,3,4,3,2,3,3,2,3,1,0,4,2,2,1,2,4,3,3,5,3,3,0
+36 - 46,Female,North West,Secondary school certificate,Formal full-time,"₦100,000 - ₦199,000",2,1,1,1,3,3,4,3,1,3,3,4,5,3,3,2,3,2,4,2,3,5,3,3,2,3,4,0
+26 - 35,Female,North East,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",3,3,2,2,3,4,4,2,2,2,3,3,2,2,2,0,5,3,4,2,3,3,3,4,4,2,4,0
+36 - 46,Male,South South,Secondary school certificate,Unemployed and looking,"₦100,000 - ₦199,000",2,2,1,2,2,3,3,2,2,4,4,2,3,4,2,0,5,3,3,1,3,4,3,4,2,2,4,0
+26 - 35,Male,South West,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",3,2,2,2,2,2,4,3,2,4,4,3,3,3,2,0,3,2,3,2,5,3,3,4,4,2,5,0
+26 - 35,Male,South South,Did not attend,Self-employed,"₦50,000 - ₦99,000",1,1,1,1,4,2,4,3,1,4,3,4,2,3,3,0,4,2,5,3,4,3,3,4,3,3,4,0
+26 - 35,Male,South South,OND,Self-employed,"₦50,000 - ₦99,000",2,1,1,1,4,4,3,3,2,2,2,4,3,3,2,0,3,2,3,2,4,4,4,3,1,4,4,0
+18 - 25,Female,North East,Secondary school certificate,Student,"Less than ₦20,000",1,1,1,1,2,4,3,3,2,2,4,2,2,3,3,0,5,4,4,3,3,2,2,2,3,2,3,0
+18 - 25,Male,South South,Primary 6,Self-employed,"₦20,000 - ₦49,000",1,2,1,1,4,3,2,1,3,3,4,3,3,3,2,0,3,3,5,3,2,4,4,2,2,5,3,2
+18 - 25,Male,North Central,Primary 6,Self-employed,"₦20,000 - ₦49,000",1,2,1,1,2,2,3,3,2,3,1,2,2,5,5,0,5,4,2,2,5,4,2,3,2,3,2,2
+26 - 35,Female,North Central,B.Sc/HND/B.Eng,Formal full-time,"Less than ₦20,000",3,3,3,2,3,1,3,4,2,4,4,2,4,4,3,0,4,3,5,3,5,3,3,2,4,4,3,2
+18 - 25,Male,North East,Secondary school certificate,Self-employed,"Less than ₦20,000",2,2,2,1,3,2,3,3,2,3,3,4,4,3,5,0,4,3,1,1,5,4,4,2,2,2,3,0
+26 - 35,Female,South West,B.Sc/HND/B.Eng,Self-employed,"₦100,000 - ₦199,000",2,1,1,1,3,5,3,3,2,3,2,4,3,2,3,0,2,1,2,1,2,3,4,4,5,1,4,0
+46 - 60,Female,North West,Primary 6,Self-employed,"₦20,000 - ₦49,000",2,2,2,1,3,2,5,4,1,3,1,3,4,4,3,1,4,3,3,2,2,5,4,5,4,3,3,1
+26 - 35,Female,South West,OND,Self-employed,"₦20,000 - ₦49,000",2,2,1,1,3,4,2,1,4,3,3,3,5,2,3,0,4,3,4,2,2,4,2,4,4,3,3,0
+36 - 46,Female,South East,B.Sc/HND/B.Eng,Self-employed,"₦200,000 - ₦499,000",3,2,1,2,3,2,2,3,3,2,4,5,2,4,2,0,4,2,3,1,3,4,4,3,3,2,3,0
+18 - 25,Female,South South,Secondary school certificate,Student,"₦20,000 - ₦49,000",2,3,2,2,2,3,3,2,2,3,4,3,3,3,2,0,5,4,4,2,5,3,3,2,5,3,4,1
+18 - 25,Male,North Central,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",3,3,3,2,3,4,2,2,3,2,2,2,3,2,2,0,5,3,3,2,3,2,2,3,3,2,3,0
+18 - 25,Female,North East,B.Sc/HND/B.Eng,Unemployed and looking,"₦200,000 - ₦499,000",3,2,1,2,1,3,5,3,1,1,3,4,3,3,5,0,3,2,1,1,3,4,4,3,5,2,4,0
+18 - 25,Male,North East,B.Sc/HND/B.Eng,Student,"₦100,000 - ₦199,000",3,2,1,2,2,5,4,3,2,3,3,4,4,4,3,0,4,2,4,2,4,3,3,3,4,3,3,0
+46 - 60,Male,North West,Secondary school certificate,Formal full-time,"Less than ₦20,000",2,2,2,1,3,1,3,3,2,4,3,5,3,4,5,0,4,3,4,3,3,4,4,3,3,3,3,0
+36 - 46,Male,North West,Did not attend,Formal full-time,"₦100,000 - ₦199,000",1,1,1,1,3,4,2,4,3,1,2,5,3,4,2,2,3,2,5,2,5,4,4,5,2,4,4,0
+26 - 35,Female,North East,B.Sc/HND/B.Eng,Formal full-time,"₦20,000 - ₦49,000",2,2,1,2,3,3,2,4,3,3,2,4,4,2,2,0,3,2,3,2,5,3,4,2,3,2,3,1
+46 - 60,Male,North East,Did not attend,Unemployed and looking,"₦20,000 - ₦49,000",1,2,2,1,3,3,4,3,1,2,3,3,4,4,3,2,5,4,4,3,4,5,4,3,1,3,4,2
+36 - 46,Male,South South,B.Sc/HND/B.Eng,Student,"Less than ₦20,000",3,2,2,2,4,3,1,3,5,3,3,3,4,3,3,2,4,3,3,2,3,2,3,2,4,2,5,2
+26 - 35,Male,South West,B.Sc/HND/B.Eng,Formal full-time,"₦20,000 - ₦49,000",3,2,2,2,2,1,5,2,1,2,2,4,4,4,2,0,5,3,4,2,2,3,4,2,1,2,3,0
+36 - 46,Male,North West,Post Graduate,Student,"₦20,000 - ₦49,000",3,2,2,2,2,4,5,3,1,2,3,3,3,4,3,0,4,3,3,2,5,3,3,3,2,3,3,2
+46 - 60,Male,North Central,Secondary school certificate,Self-employed,"₦100,000 - ₦199,000",2,1,1,1,3,3,2,3,3,4,1,4,2,1,3,0,3,2,4,2,4,3,1,3,2,4,3,0
+18 - 25,Male,South West,B.Sc/HND/B.Eng,Formal full-time,"₦100,000 - ₦199,000",3,2,1,2,3,4,2,5,3,4,4,4,4,3,3,0,4,2,4,2,3,4,3,2,4,2,4,0
+18 - 25,Male,North Central,Secondary school certificate,Self-employed,"Less than ₦20,000",1,1,1,1,2,4,3,2,2,2,4,2,2,3,5,2,5,4,3,2,2,5,4,3,3,4,2,0
+18 - 25,Female,North Central,Secondary school certificate,Formal full-time,"₦50,000 - ₦99,000",2,2,1,1,2,3,4,3,1,4,3,1,2,4,2,0,4,2,2,1,1,4,4,4,3,1,5,0
+26 - 35,Male,South South,B.Sc/HND/B.Eng,Part-time,"Less than ₦20,000",3,2,3,2,3,3,1,3,5,3,3,2,2,4,4,2,3,2,3,2,4,3,4,3,4,3,4,1
+36 - 46,Male,South South,B.Sc/HND/B.Eng,Part-time,"₦100,000 - ₦199,000",3,2,1,2,3,2,1,3,5,3,3,3,3,2,3,0,5,4,4,2,2,3,3,4,3,1,2,0
+46 - 60,Female,South West,Post Graduate,Student,"₦50,000 - ₦99,000",3,3,2,2,4,2,2,3,4,3,3,3,2,2,1,0,5,3,4,2,2,4,2,4,4,1,2,0
+18 - 25,Male,South West,B.Sc/HND/B.Eng,Self-employed,"Above ₦500,000",3,2,1,2,3,4,3,4,2,3,1,2,1,4,4,0,4,2,2,1,4,5,3,4,4,2,3,0
+26 - 35,Female,South West,Secondary school certificate,Part-time,"Less than ₦20,000",2,2,2,1,3,4,3,1,2,2,4,4,3,3,5,0,4,3,2,2,4,3,3,3,3,4,3,1
+26 - 35,Male,North West,Secondary school certificate,Self-employed,"Less than ₦20,000",1,1,1,1,2,3,4,1,1,3,4,3,3,2,4,0,4,3,5,3,5,3,3,3,3,3,5,0
+18 - 25,Male,North Central,B.Sc/HND/B.Eng,Unemployed and looking,"₦20,000 - ₦49,000",2,2,1,2,3,3,1,2,4,3,2,3,3,2,3,0,4,3,2,2,3,3,4,4,5,3,4,0
+18 - 25,Male,North West,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,2,2,1,2,2,1,4,4,3,1,3,3,3,3,0,5,4,4,3,3,3,5,3,3,3,2,0
+18 - 25,Male,North Central,Primary 6,Self-employed,"Less than ₦20,000",1,2,2,1,4,4,3,2,2,3,3,5,5,3,3,2,5,4,3,2,4,1,3,1,2,3,3,1
+46 - 60,Male,South West,Secondary school certificate,Formal full-time,"₦200,000 - ₦499,000",2,2,1,1,1,3,2,1,4,3,2,2,4,4,4,0,3,2,5,2,3,4,3,3,3,2,4,0
+18 - 25,Male,North West,Secondary school certificate,Formal full-time,"Less than ₦20,000",2,1,2,1,3,5,1,4,4,3,3,5,3,1,3,0,4,3,3,2,5,3,3,2,3,3,4,0
+26 - 35,Male,South South,Secondary school certificate,Unemployed and looking,"₦20,000 - ₦49,000",1,1,1,1,3,2,3,3,3,3,4,2,3,2,5,0,5,4,5,3,4,2,3,2,2,2,2,0
+36 - 46,Male,South South,Secondary school certificate,Formal full-time,"₦100,000 - ₦199,000",2,1,1,1,3,2,3,2,2,3,1,2,4,3,3,2,5,3,3,2,5,4,2,3,4,4,3,0
+60+,Male,South West,Did not attend,Unemployed and looking,"₦100,000 - ₦199,000",1,2,1,1,3,3,2,2,3,1,3,5,2,5,2,0,5,3,1,1,4,3,3,2,1,4,3,0
+60+,Male,South South,Post Graduate,Formal full-time,"Less than ₦20,000",3,2,2,2,2,3,2,3,3,3,3,4,2,5,2,2,4,3,1,1,3,5,3,3,4,4,4,0
+18 - 25,Male,North West,Secondary school certificate,Self-employed,"₦20,000 - ₦49,000",2,1,1,1,3,2,3,3,2,1,3,4,2,2,4,0,1,2,3,2,4,2,3,4,2,1,4,0
+26 - 35,Female,South East,Secondary school certificate,Formal full-time,"Less than ₦20,000",2,2,2,1,1,4,1,3,4,1,3,4,3,1,2,0,5,4,4,3,4,2,3,2,3,2,4,0
+18 - 25,Male,North West,B.Sc/HND/B.Eng,Retired,"Less than ₦20,000",2,1,2,1,3,4,2,1,3,1,3,3,3,3,2,0,4,3,2,2,5,4,2,4,4,2,4,0
+18 - 25,Female,South East,Secondary school certificate,Self-employed,"₦200,000 - ₦499,000",2,2,1,1,2,2,3,2,2,4,3,4,3,2,4,0,4,2,2,1,3,4,4,2,3,1,3,0
+18 - 25,Female,North East,Post Graduate,Student,"Less than ₦20,000",3,2,2,2,4,4,3,2,2,3,3,3,4,2,2,0,4,3,4,2,3,2,3,5,5,2,4,0
+26 - 35,Male,South South,B.Sc/HND/B.Eng,Self-employed,"₦50,000 - ₦99,000",3,2,1,2,3,4,3,3,3,2,2,5,4,3,3,2,2,1,4,2,4,4,3,3,4,5,4,0
+26 - 35,Female,South South,Primary 6,Formal full-time,"₦20,000 - ₦49,000",1,1,1,1,3,3,1,2,4,4,1,3,3,4,1,0,5,4,4,2,1,4,2,3,3,4,4,0
+18 - 25,Female,North West,Secondary school certificate,Self-employed,"₦20,000 - ₦49,000",1,1,1,1,2,3,3,4,2,3,2,3,2,3,5,1,5,4,4,3,2,2,3,1,4,5,3,0
+18 - 25,Male,North Central,B.Sc/HND/B.Eng,Student,"₦200,000 - ₦499,000",3,2,1,2,5,3,1,1,5,3,3,2,2,2,1,0,4,2,2,1,3,4,3,3,4,3,3,0
+46 - 60,Male,South South,Post Graduate,Self-employed,"Less than ₦20,000",3,2,2,2,3,2,3,3,3,3,2,3,3,2,2,2,5,4,3,2,4,4,2,3,4,3,4,0
+18 - 25,Female,North Central,Secondary school certificate,Student,"₦50,000 - ₦99,000",2,1,1,1,5,3,4,3,1,3,2,3,2,2,3,0,4,2,5,2,3,3,3,3,3,3,5,1
+18 - 25,Female,South South,B.Sc/HND/B.Eng,Student,"Above ₦500,000",3,2,1,2,4,1,1,4,4,4,4,2,4,3,3,0,3,2,3,1,3,4,2,2,3,3,4,0
+26 - 35,Male,South West,Secondary school certificate,Formal full-time,"₦50,000 - ₦99,000",2,1,1,1,4,4,2,2,3,2,3,3,2,2,4,0,4,2,3,1,3,4,3,2,2,3,3,0
+60+,Male,North Central,Post Graduate,Formal full-time,"₦200,000 - ₦499,000",3,3,1,2,3,2,3,3,3,3,3,3,4,2,1,1,4,2,5,2,2,3,4,4,4,2,3,0
+36 - 46,Male,North West,Post Graduate,Self-employed,"₦20,000 - ₦49,000",3,2,2,2,1,3,3,1,3,1,2,4,4,3,3,2,5,4,4,3,4,3,5,5,4,5,5,0
+36 - 46,Female,South East,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",2,1,1,1,3,3,2,4,4,4,3,3,3,4,2,2,5,4,5,3,5,3,2,3,4,3,3,0
+18 - 25,Male,North Central,B.Sc/HND/B.Eng,Student,"₦100,000 - ₦199,000",3,3,1,2,4,2,1,3,5,4,3,2,5,5,3,0,5,3,3,1,5,4,3,3,3,2,4,0
+36 - 46,Male,South West,OND,Self-employed,"Above ₦500,000",3,2,1,2,3,3,3,4,3,2,2,2,2,3,4,0,5,3,4,2,3,3,3,4,2,3,3,0
+26 - 35,Female,North Central,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,1,1,1,2,4,4,2,1,3,2,5,3,4,3,0,4,3,3,2,4,1,3,1,3,3,4,1
+26 - 35,Male,South West,Secondary school certificate,Student,"₦50,000 - ₦99,000",2,2,1,1,3,1,3,3,2,2,4,3,3,3,4,0,1,1,2,1,1,5,3,2,4,3,4,0
+26 - 35,Male,South South,Secondary school certificate,Formal full-time,"Less than ₦20,000",1,1,1,1,5,4,2,5,3,3,3,5,3,2,3,0,5,4,4,3,3,4,2,4,3,4,3,2
+26 - 35,Female,South South,Secondary school certificate,Student,"₦50,000 - ₦99,000",2,2,1,1,4,3,3,3,2,4,1,3,3,2,4,0,3,2,4,2,3,3,3,2,4,3,3,0
+18 - 25,Female,North Central,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",2,2,1,1,3,2,2,3,3,2,2,4,3,3,4,0,4,3,5,3,5,4,2,1,3,1,5,0
+46 - 60,Female,South South,Secondary school certificate,Unemployed and looking,"Above ₦500,000",2,1,1,1,4,2,2,3,4,3,2,4,3,3,2,2,3,2,5,2,2,5,4,5,3,4,4,0
+18 - 25,Female,South East,Primary 6,Formal full-time,"₦50,000 - ₦99,000",1,1,1,1,3,4,3,2,2,2,2,2,1,1,5,0,3,2,3,1,3,1,3,2,2,3,4,1
+18 - 25,Male,South West,Post Graduate,Self-employed,"₦20,000 - ₦49,000",3,3,2,2,2,2,3,4,3,2,3,3,4,4,3,0,5,4,5,3,3,4,4,3,3,4,4,1
+18 - 25,Male,South South,B.Sc/HND/B.Eng,Self-employed,"Less than ₦20,000",2,2,2,2,2,2,2,2,3,1,3,2,5,3,4,0,3,2,3,2,3,2,3,3,3,4,4,0
+26 - 35,Female,North West,Post Graduate,Self-employed,"Less than ₦20,000",3,3,3,2,5,4,2,4,3,3,1,3,3,4,3,2,3,3,4,3,4,4,3,1,4,3,5,0
+36 - 46,Male,North West,Post Graduate,Formal full-time,"Less than ₦20,000",3,2,2,2,3,3,4,2,1,3,2,4,2,2,4,2,5,3,4,2,3,4,2,3,3,2,4,0
+18 - 25,Male,South South,Secondary school certificate,Unemployed and looking,"₦20,000 - ₦49,000",1,1,1,1,3,2,3,2,2,3,3,2,2,2,4,0,5,4,4,3,3,4,3,3,3,2,4,0
+26 - 35,Male,North Central,Secondary school certificate,Student,"₦200,000 - ₦499,000",2,1,1,1,3,3,2,4,3,3,3,4,4,2,4,2,4,2,3,2,1,3,2,3,2,4,2,0
+18 - 25,Male,South South,B.Sc/HND/B.Eng,Formal full-time,"₦50,000 - ₦99,000",3,3,2,2,5,2,3,2,2,3,2,2,4,2,2,0,3,2,1,1,2,2,5,4,5,3,3,2
+26 - 35,Male,South South,B.Sc/HND/B.Eng,Formal full-time,"₦50,000 - ₦99,000",3,2,1,2,5,4,2,4,3,4,3,4,3,4,3,0,3,1,2,1,2,3,2,3,4,2,3,0
+18 - 25,Male,North West,Secondary school certificate,Formal full-time,"Less than ₦20,000",1,1,2,1,5,4,2,3,3,3,4,3,4,4,4,0,4,3,4,2,3,4,3,4,3,3,5,0
+36 - 46,Male,South South,B.Sc/HND/B.Eng,Unemployed and looking,"₦200,000 - ₦499,000",3,2,1,2,3,3,2,1,4,1,3,2,1,5,3,2,4,2,1,1,3,4,5,2,3,3,1,0
+26 - 35,Male,North Central,Secondary school certificate,Self-employed,"₦100,000 - ₦199,000",2,2,1,1,3,3,1,4,5,3,4,2,4,2,3,0,5,3,4,2,3,2,4,2,2,3,3,0
+46 - 60,Female,South West,Secondary school certificate,Self-employed,"Less than ₦20,000",2,2,2,2,2,4,3,2,2,2,2,2,3,1,4,0,3,2,5,3,4,4,3,2,4,1,1,2
+18 - 25,Female,South West,OND,Formal full-time,"₦100,000 - ₦199,000",3,2,1,2,4,3,1,3,5,1,3,1,2,2,5,0,3,2,3,2,4,3,2,2,4,2,3,0
+18 - 25,Female,South South,OND,Self-employed,"₦50,000 - ₦99,000",2,2,1,1,2,2,1,3,4,3,3,3,2,3,2,2,2,1,2,1,3,4,2,4,2,3,3,1
+18 - 25,Female,North West,OND,Self-employed,"Less than ₦20,000",2,1,1,1,3,3,1,2,4,1,3,4,3,4,5,2,3,2,5,3,3,3,3,2,3,5,5,0
+46 - 60,Male,North Central,Primary 6,Self-employed,"₦20,000 - ₦49,000",1,1,1,1,2,5,2,3,3,2,3,3,4,4,3,0,5,4,5,4,3,4,4,3,4,2,4,1
+46 - 60,Male,South West,B.Sc/HND/B.Eng,Retired,"₦20,000 - ₦49,000",3,2,2,2,3,2,2,5,3,3,2,2,3,3,2,1,5,4,4,2,4,4,3,3,4,3,3,0
+18 - 25,Female,South East,Secondary school certificate,Formal full-time,"Less than ₦20,000",1,1,1,1,2,2,2,3,3,3,3,4,2,5,5,0,5,4,4,3,4,2,2,3,4,3,5,0
+36 - 46,Female,South West,Primary 6,Unemployed and looking,"₦200,000 - ₦499,000",1,1,1,1,2,3,1,3,4,3,1,3,3,2,3,0,4,3,3,2,4,3,1,4,3,4,4,0
+36 - 46,Female,North West,B.Sc/HND/B.Eng,Self-employed,"₦100,000 - ₦199,000",3,2,1,2,3,3,2,4,3,3,1,5,5,2,3,0,3,2,3,2,4,4,3,3,2,4,4,0
+26 - 35,Male,North East,Post Graduate,Self-employed,"₦50,000 - ₦99,000",3,2,1,2,2,2,4,3,2,2,5,4,3,2,3,0,3,2,3,1,2,5,3,3,4,3,3,0
+26 - 35,Male,North Central,B.Sc/HND/B.Eng,Unemployed and looking,"₦20,000 - ₦49,000",3,2,2,2,4,4,2,3,4,3,2,3,4,3,5,2,5,4,4,2,3,3,5,3,4,3,3,2
+18 - 25,Male,South East,B.Sc/HND/B.Eng,Unemployed and looking,"₦20,000 - ₦49,000",2,2,1,2,2,5,3,2,3,3,3,4,4,5,4,1,4,3,4,3,4,5,4,3,3,2,3,0
+18 - 25,Male,North East,B.Sc/HND/B.Eng,Retired,"₦50,000 - ₦99,000",3,2,1,2,3,3,2,3,3,1,4,3,4,3,3,2,4,2,5,2,4,5,4,5,4,3,4,0
+46 - 60,Female,North West,OND,Formal full-time,"₦50,000 - ₦99,000",2,1,1,1,4,2,3,4,2,2,1,3,2,3,2,0,4,2,2,1,4,3,3,2,2,3,4,0
+46 - 60,Female,South South,Primary 6,Formal full-time,"Less than ₦20,000",1,2,2,1,3,1,4,2,1,4,4,4,2,2,4,0,3,2,4,2,3,4,2,4,4,4,5,1
+26 - 35,Male,North West,Secondary school certificate,Unemployed and looking,"₦50,000 - ₦99,000",2,2,1,1,2,3,4,5,1,4,3,2,2,3,3,2,2,1,2,1,1,3,4,4,2,4,4,0
+18 - 25,Female,South South,Secondary school certificate,Self-employed,"₦100,000 - ₦199,000",1,1,1,1,3,4,2,3,3,4,4,4,2,4,3,0,3,2,5,2,2,3,3,2,2,4,1,0
+18 - 25,Female,South West,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",1,1,1,1,4,3,3,2,2,4,2,3,4,3,2,0,5,4,3,2,4,2,1,4,3,4,4,0
+36 - 46,Male,South South,B.Sc/HND/B.Eng,Formal full-time,"Less than ₦20,000",2,1,1,1,3,3,2,4,3,3,4,3,4,3,4,0,5,4,2,2,4,3,3,1,4,4,2,1
+46 - 60,Male,North East,Secondary school certificate,Formal full-time,"₦100,000 - ₦199,000",2,1,1,1,2,2,3,3,2,4,2,3,3,4,1,1,4,3,4,2,2,5,2,2,3,3,3,0
+46 - 60,Male,North West,Primary 6,Student,"Less than ₦20,000",1,1,2,1,3,2,3,4,2,5,4,3,2,3,3,2,4,3,5,3,4,3,2,2,2,5,3,0
+36 - 46,Male,South East,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",1,1,1,1,2,4,2,3,3,1,3,3,5,5,2,2,5,4,4,3,4,3,3,4,2,3,3,0
+26 - 35,Male,South South,B.Sc/HND/B.Eng,Part-time,"Less than ₦20,000",2,2,2,1,4,4,3,3,3,3,3,3,3,2,4,1,4,3,4,2,2,2,3,2,2,4,2,2
+18 - 25,Male,South East,Primary 6,Formal full-time,"₦20,000 - ₦49,000",1,1,1,1,3,1,1,3,4,3,3,3,4,4,4,0,5,4,4,3,5,4,3,4,3,4,4,0
+18 - 25,Male,North West,B.Sc/HND/B.Eng,Self-employed,"₦100,000 - ₦199,000",3,2,1,2,3,4,2,3,3,2,1,2,3,4,2,0,4,2,4,2,2,4,5,3,5,4,2,0
+46 - 60,Male,South East,Secondary school certificate,Formal full-time,"₦50,000 - ₦99,000",2,2,1,1,2,3,1,1,4,3,1,3,3,4,4,0,3,2,2,1,4,3,2,3,3,3,4,0
+26 - 35,Female,South East,Secondary school certificate,Self-employed,"Less than ₦20,000",1,1,1,1,2,4,1,2,4,3,3,3,4,1,2,0,5,4,4,2,3,3,4,4,4,2,5,0
+18 - 25,Male,South West,OND,Formal full-time,"₦200,000 - ₦499,000",2,2,1,2,4,2,1,4,4,2,2,3,3,2,1,0,3,2,3,1,2,3,2,3,4,2,2,2
+18 - 25,Female,South East,B.Sc/HND/B.Eng,Student,"₦200,000 - ₦499,000",3,2,1,2,4,2,3,3,3,3,3,5,4,2,3,2,2,1,2,1,2,4,4,2,3,3,3,0
+36 - 46,Male,South South,Secondary school certificate,Formal full-time,"₦200,000 - ₦499,000",2,2,1,1,2,3,2,2,4,4,2,2,2,4,1,0,4,2,3,1,3,3,3,5,3,5,1,0
+18 - 25,Female,South West,B.Sc/HND/B.Eng,Self-employed,"Less than ₦20,000",3,3,3,2,4,3,3,2,2,3,5,2,2,2,2,0,4,3,5,3,3,4,3,2,5,2,3,2
+18 - 25,Male,North West,OND,Student,"₦20,000 - ₦49,000",2,2,2,2,1,5,3,2,2,3,3,3,4,2,3,0,5,5,4,3,3,4,3,1,4,4,4,1
+26 - 35,Male,North Central,Secondary school certificate,Unemployed and looking,"Above ₦500,000",2,1,1,1,3,3,1,1,5,2,2,3,4,1,1,0,4,2,4,2,3,4,3,2,2,4,4,0
+36 - 46,Female,North West,B.Sc/HND/B.Eng,Self-employed,"₦100,000 - ₦199,000",3,2,1,2,3,3,4,3,2,3,3,4,5,2,2,0,3,2,3,1,3,4,3,2,4,2,4,0
+36 - 46,Female,North Central,B.Sc/HND/B.Eng,Part-time,"Less than ₦20,000",3,2,3,2,2,2,3,2,2,2,2,4,3,2,2,2,3,3,4,3,3,4,2,4,3,5,4,2
+18 - 25,Female,North Central,B.Sc/HND/B.Eng,Part-time,"Less than ₦20,000",2,1,1,1,2,4,1,2,4,2,3,4,5,5,3,2,3,2,3,2,2,5,5,3,4,1,5,0
+36 - 46,Male,North West,B.Sc/HND/B.Eng,Unemployed and looking,"₦20,000 - ₦49,000",3,2,2,2,3,2,3,3,2,3,2,4,2,3,2,2,3,3,3,2,4,4,3,4,3,2,5,0
+18 - 25,Male,North East,B.Sc/HND/B.Eng,Retired,"₦200,000 - ₦499,000",3,3,1,2,3,4,2,3,3,1,3,3,2,3,3,0,4,2,3,1,3,4,4,3,3,2,3,0
+18 - 25,Female,North West,B.Sc/HND/B.Eng,Unemployed and looking,"₦50,000 - ₦99,000",2,1,1,1,3,3,3,5,2,2,2,5,4,3,4,2,5,3,3,1,4,4,2,3,3,2,2,0
+36 - 46,Female,South East,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",2,2,1,1,1,4,1,1,4,3,2,3,2,3,4,0,5,4,4,2,3,2,3,3,3,3,3,0
+26 - 35,Female,South South,B.Sc/HND/B.Eng,Unemployed and looking,"Less than ₦20,000",3,2,3,2,1,4,1,4,5,3,4,3,3,3,3,0,5,3,3,2,2,5,3,3,4,3,3,0
+46 - 60,Female,North West,B.Sc/HND/B.Eng,Self-employed,"₦50,000 - ₦99,000",3,2,1,2,3,3,3,4,3,3,2,4,4,4,2,0,3,2,3,1,3,4,4,4,3,3,4,0
+36 - 46,Male,South South,B.Sc/HND/B.Eng,Formal full-time,"₦100,000 - ₦199,000",3,2,1,2,4,3,2,2,3,2,3,4,4,3,3,0,4,2,5,3,3,3,1,3,3,3,3,0
+26 - 35,Female,South West,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",3,2,2,2,1,3,2,3,3,3,2,1,3,3,3,0,4,3,4,3,2,4,3,3,2,2,4,0
+18 - 25,Male,North East,Secondary school certificate,Student,"₦100,000 - ₦199,000",2,2,1,1,2,3,2,2,3,2,3,3,3,2,3,2,5,3,3,2,1,3,2,3,4,2,4,0
+26 - 35,Male,North West,B.Sc/HND/B.Eng,Formal full-time,"Above ₦500,000",3,1,1,1,3,3,3,3,3,3,2,4,3,2,1,2,3,2,3,1,4,3,4,4,5,4,4,0
+18 - 25,Male,South West,B.Sc/HND/B.Eng,Unemployed and looking,"Less than ₦20,000",3,2,3,2,4,2,3,4,3,4,3,2,4,4,4,0,4,3,3,2,5,3,2,3,3,2,3,0
+18 - 25,Female,South East,Did not attend,Formal full-time,"₦50,000 - ₦99,000",1,2,1,1,3,3,2,4,3,4,5,5,3,3,3,0,2,1,3,1,1,5,2,4,3,1,5,2
+60+,Male,South East,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",2,2,1,2,3,3,3,3,3,4,2,4,4,3,5,0,4,3,4,2,3,3,3,4,4,4,2,0
+26 - 35,Male,North West,Primary 6,Formal full-time,"₦100,000 - ₦199,000",1,1,1,1,3,1,2,3,3,3,4,4,4,2,4,0,4,3,1,1,4,3,2,3,4,4,3,0
+46 - 60,Female,North West,Secondary school certificate,Self-employed,"₦50,000 - ₦99,000",1,1,1,1,1,3,4,2,1,3,3,3,3,5,3,1,3,1,1,1,2,3,3,2,3,5,4,0
+26 - 35,Male,North Central,B.Sc/HND/B.Eng,Unemployed and looking,"₦50,000 - ₦99,000",3,2,1,2,4,2,1,3,4,3,4,4,3,2,3,0,3,2,2,1,2,4,2,2,3,3,4,0
+36 - 46,Female,North East,Secondary school certificate,Self-employed,"₦100,000 - ₦199,000",2,2,1,1,3,2,4,4,1,2,5,3,4,3,2,0,4,2,3,2,2,4,1,3,2,4,4,0
+26 - 35,Male,North West,B.Sc/HND/B.Eng,Unemployed and looking,"₦20,000 - ₦49,000",3,2,2,2,4,1,4,2,1,3,2,5,4,3,4,0,3,2,3,2,2,4,4,2,2,4,4,0
+26 - 35,Male,North East,B.Sc/HND/B.Eng,Student,"₦200,000 - ₦499,000",3,2,1,2,5,1,4,2,2,2,1,5,4,5,2,0,5,3,4,2,1,2,2,3,4,2,4,0
+26 - 35,Female,South East,OND,Student,"₦50,000 - ₦99,000",2,2,1,1,1,2,2,3,3,5,4,5,2,3,4,0,3,2,2,1,4,2,3,3,3,4,3,0
+18 - 25,Male,South South,Did not attend,Formal full-time,"Less than ₦20,000",1,2,2,1,5,2,2,2,3,3,3,4,3,3,4,2,4,3,3,2,2,4,3,4,3,4,4,2
+36 - 46,Male,North Central,Secondary school certificate,Self-employed,"₦50,000 - ₦99,000",2,1,1,1,3,5,3,2,2,3,3,5,3,3,3,1,3,1,5,2,3,5,2,2,3,4,3,1
+18 - 25,Male,South South,B.Sc/HND/B.Eng,Formal full-time,"₦100,000 - ₦199,000",3,2,1,2,3,3,1,2,4,3,2,4,2,2,3,0,4,2,3,1,4,2,3,3,3,3,4,0
+18 - 25,Male,North East,Post Graduate,Retired,"₦20,000 - ₦49,000",3,2,2,2,3,3,2,2,3,1,2,2,1,3,2,0,5,5,4,3,2,5,4,4,2,4,3,0
+26 - 35,Female,North Central,B.Sc/HND/B.Eng,Student,"₦200,000 - ₦499,000",3,2,1,2,3,3,2,2,3,1,4,3,1,5,2,0,4,2,5,2,2,3,5,4,5,3,4,0
+18 - 25,Male,North West,Secondary school certificate,Self-employed,"₦200,000 - ₦499,000",2,1,1,1,3,3,4,4,1,3,3,4,4,3,2,0,3,2,2,1,4,3,2,3,4,2,4,2
+46 - 60,Female,South West,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",2,2,2,2,3,3,3,2,3,4,2,4,2,3,4,0,5,4,3,2,4,3,3,3,5,4,3,0
+60+,Male,South South,OND,Self-employed,"Above ₦500,000",3,2,1,2,2,2,1,1,4,2,4,2,5,2,2,0,3,2,3,1,2,2,1,3,4,2,4,2
+46 - 60,Female,South West,B.Sc/HND/B.Eng,Self-employed,"Less than ₦20,000",2,2,2,2,4,4,2,2,3,1,3,2,4,5,2,0,5,4,2,1,5,4,3,3,3,4,3,2
+26 - 35,Female,North Central,Primary 6,Formal full-time,"Less than ₦20,000",1,1,1,1,3,4,2,4,3,3,2,3,3,5,4,0,5,4,3,2,5,3,3,3,4,3,4,2
+18 - 25,Female,South West,B.Sc/HND/B.Eng,Unemployed and looking,"Less than ₦20,000",3,3,3,2,2,1,2,3,4,2,4,3,4,4,3,0,2,2,4,3,4,3,3,4,3,4,4,0
+46 - 60,Male,North West,OND,Formal full-time,"₦200,000 - ₦499,000",3,2,1,2,3,2,4,3,1,2,2,4,4,3,2,0,3,1,4,2,2,4,3,1,3,4,3,0
+26 - 35,Male,South South,Post Graduate,Student,"₦50,000 - ₦99,000",3,2,1,2,4,3,1,3,4,4,3,3,2,2,2,0,4,2,4,2,2,2,2,3,4,3,4,0
+60+,Male,South West,Secondary school certificate,Student,"Less than ₦20,000",2,2,2,1,3,2,4,1,1,3,4,2,3,4,1,0,5,3,3,2,4,2,3,3,1,4,4,0
+60+,Female,North Central,B.Sc/HND/B.Eng,Unemployed and looking,"₦20,000 - ₦49,000",2,2,1,2,3,3,3,3,2,2,3,5,2,2,2,2,3,3,3,2,3,3,4,3,5,4,5,2
+46 - 60,Female,South West,Post Graduate,Formal full-time,"₦50,000 - ₦99,000",3,2,1,2,3,2,3,3,2,3,2,2,4,2,4,0,3,2,4,2,4,4,3,4,4,1,4,0
+18 - 25,Female,South West,Primary 6,Part-time,"Less than ₦20,000",1,2,2,1,4,5,2,3,3,4,3,4,3,2,3,2,3,2,3,2,2,4,2,4,3,4,4,0
+26 - 35,Male,North West,Post Graduate,Formal full-time,"₦200,000 - ₦499,000",3,2,1,2,4,4,3,4,3,2,2,4,3,3,1,2,4,2,3,1,1,3,4,3,4,2,3,0
+46 - 60,Female,South West,B.Sc/HND/B.Eng,Self-employed,"₦100,000 - ₦199,000",2,2,1,2,5,3,1,2,4,3,4,4,3,1,2,0,5,3,3,1,3,5,5,4,4,3,5,2
+18 - 25,Female,North West,Primary 6,Formal full-time,"₦50,000 - ₦99,000",1,1,1,1,3,4,3,4,2,3,3,3,3,2,3,0,4,3,5,2,2,4,2,3,3,2,2,0
+18 - 25,Male,South East,Secondary school certificate,Student,"Above ₦500,000",2,1,1,1,4,4,3,3,2,3,3,3,5,3,3,2,5,3,4,2,2,3,3,4,4,3,4,0
+26 - 35,Male,South South,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",2,2,1,1,3,2,4,2,2,3,2,3,3,4,3,0,5,4,2,2,2,3,4,5,2,4,4,0
+36 - 46,Female,South West,OND,Self-employed,"₦50,000 - ₦99,000",2,1,1,1,2,3,2,3,3,3,4,3,4,4,1,0,5,3,4,2,3,4,1,3,4,3,3,1
+26 - 35,Female,South West,Secondary school certificate,Self-employed,"₦50,000 - ₦99,000",2,2,1,1,4,4,2,4,3,2,2,4,4,4,3,0,4,2,3,1,3,4,3,3,3,3,4,0
+18 - 25,Male,North West,B.Sc/HND/B.Eng,Self-employed,"Less than ₦20,000",3,2,3,2,3,3,2,2,4,2,3,2,3,2,4,0,4,3,3,2,4,2,5,2,4,2,5,2
+26 - 35,Female,South East,Did not attend,Self-employed,"₦200,000 - ₦499,000",1,1,1,1,3,1,3,2,2,3,2,3,4,4,4,0,5,3,4,2,3,3,3,4,2,4,3,0
+60+,Male,North East,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",3,2,2,2,3,2,2,4,3,3,2,2,3,3,2,0,5,4,4,2,5,4,2,2,3,2,3,0
+18 - 25,Male,North Central,Post Graduate,Self-employed,"Less than ₦20,000",3,2,2,2,3,3,2,2,3,2,3,3,1,3,5,0,4,3,4,2,2,4,3,2,4,4,1,2
+26 - 35,Male,North East,Post Graduate,Retired,"Less than ₦20,000",3,2,2,2,3,3,3,4,3,2,3,3,2,3,3,1,4,3,4,3,4,3,5,2,4,2,5,0
+46 - 60,Female,North West,B.Sc/HND/B.Eng,Student,"₦50,000 - ₦99,000",3,2,1,2,3,5,2,5,3,4,5,4,4,3,3,0,4,2,3,1,1,4,4,3,2,2,3,0
+36 - 46,Female,South West,Primary 6,Formal full-time,"₦50,000 - ₦99,000",2,2,1,1,4,2,2,3,3,3,2,3,4,3,4,0,4,3,5,2,2,3,4,3,4,3,4,2
+36 - 46,Female,North West,B.Sc/HND/B.Eng,Student,"₦100,000 - ₦199,000",3,2,1,2,4,3,3,4,2,4,3,4,2,2,2,0,4,2,2,1,1,5,4,3,3,2,4,0
+36 - 46,Male,South East,Did not attend,Formal full-time,"₦200,000 - ₦499,000",1,1,1,1,4,4,2,2,3,4,2,4,3,2,1,0,3,2,4,2,4,4,2,3,3,3,4,1
+26 - 35,Female,North East,Did not attend,Student,"Less than ₦20,000",1,2,2,1,2,5,3,4,2,2,3,4,4,4,4,2,5,5,5,3,4,3,3,4,2,3,5,0
+18 - 25,Male,North West,Secondary school certificate,Self-employed,"₦100,000 - ₦199,000",2,2,1,1,2,2,3,3,2,3,3,4,3,3,3,2,3,2,2,1,3,2,3,3,2,4,5,0
+36 - 46,Female,South West,Secondary school certificate,Student,"Less than ₦20,000",1,1,1,1,4,3,4,3,1,3,4,3,4,4,3,0,4,3,3,2,2,2,3,2,4,4,4,0
+36 - 46,Male,North West,B.Sc/HND/B.Eng,Student,"₦200,000 - ₦499,000",3,2,1,2,4,4,3,3,2,2,4,5,4,3,3,0,3,1,4,2,2,4,5,3,4,2,4,0
+46 - 60,Male,North East,B.Sc/HND/B.Eng,Student,"₦100,000 - ₦199,000",3,2,1,2,4,3,4,1,1,3,3,5,3,3,3,0,5,3,4,2,2,2,5,5,3,2,4,0
+46 - 60,Male,South East,Secondary school certificate,Student,"₦50,000 - ₦99,000",2,2,1,1,3,3,1,3,4,3,2,4,3,3,1,0,4,2,3,1,3,3,2,4,3,3,5,0
+26 - 35,Male,North West,Secondary school certificate,Part-time,"₦100,000 - ₦199,000",2,2,1,1,3,3,3,1,2,1,3,4,4,4,3,0,3,2,2,1,2,4,3,3,4,3,3,1
+26 - 35,Female,South South,Post Graduate,Formal full-time,"₦20,000 - ₦49,000",4,3,3,3,2,1,1,2,4,3,3,4,3,5,1,2,5,4,4,3,5,3,4,2,4,4,4,0
+36 - 46,Male,North West,Secondary school certificate,Self-employed,"₦20,000 - ₦49,000",1,1,1,1,3,3,2,4,4,2,4,2,2,5,3,0,5,4,5,3,2,4,3,3,3,4,5,0
+26 - 35,Male,North West,Secondary school certificate,Formal full-time,"₦100,000 - ₦199,000",1,1,1,1,4,3,2,3,3,2,3,3,3,4,2,0,3,2,2,1,2,2,2,3,4,4,5,2
+36 - 46,Female,South East,Secondary school certificate,Unemployed and looking,"₦20,000 - ₦49,000",2,2,1,1,3,3,4,5,2,3,2,3,2,5,4,0,5,4,2,2,5,4,5,3,4,2,3,0
+36 - 46,Male,North East,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",3,2,2,2,3,5,4,4,1,1,1,3,2,4,2,0,4,3,4,2,3,3,2,1,4,2,3,0
+46 - 60,Female,North West,B.Sc/HND/B.Eng,Retired,"₦20,000 - ₦49,000",2,2,1,1,3,2,3,3,2,2,4,3,3,4,3,1,4,3,4,3,2,3,2,2,3,2,4,0
+18 - 25,Female,North Central,Secondary school certificate,Unemployed and looking,"₦100,000 - ₦199,000",2,2,1,2,3,2,1,3,4,5,3,3,3,5,1,0,2,1,3,1,3,4,3,4,4,2,2,1
+26 - 35,Female,North East,Primary 6,Student,"₦20,000 - ₦49,000",1,1,1,1,2,5,3,3,2,3,2,1,4,1,4,0,3,3,4,3,3,4,5,4,3,4,5,2
+18 - 25,Male,South South,B.Sc/HND/B.Eng,Formal full-time,"Less than ₦20,000",3,2,2,2,3,2,3,1,3,2,3,2,3,3,3,2,5,4,3,2,3,3,3,2,4,2,4,1
+26 - 35,Female,North East,B.Sc/HND/B.Eng,Student,"₦100,000 - ₦199,000",3,2,1,2,1,3,3,2,2,4,3,3,3,4,3,0,5,3,1,1,2,3,3,4,5,5,4,0
+18 - 25,Female,South East,Secondary school certificate,Student,"₦100,000 - ₦199,000",2,2,1,2,3,3,1,2,5,2,4,3,3,4,1,0,4,2,3,1,5,3,4,2,2,4,3,1
+26 - 35,Male,North Central,Secondary school certificate,Self-employed,"Less than ₦20,000",1,1,1,1,4,3,2,3,3,2,2,2,1,3,5,2,4,3,3,2,2,2,2,3,2,5,3,2
+26 - 35,Female,North Central,Post Graduate,Formal full-time,"₦20,000 - ₦49,000",3,3,2,2,4,3,1,1,5,4,3,2,4,3,4,0,4,3,2,1,4,4,4,1,2,5,4,0
+18 - 25,Female,South South,Secondary school certificate,Self-employed,"₦20,000 - ₦49,000",2,1,1,1,4,2,2,3,3,2,4,3,4,4,2,0,4,3,3,2,3,2,4,4,3,2,4,0
+18 - 25,Female,North West,B.Sc/HND/B.Eng,Self-employed,"₦100,000 - ₦199,000",3,2,1,2,2,3,3,4,2,1,2,2,4,4,3,0,3,2,4,2,2,4,5,3,4,2,4,1
+36 - 46,Female,South West,Secondary school certificate,Formal full-time,"₦50,000 - ₦99,000",2,2,1,1,5,3,3,3,2,4,4,3,1,5,1,0,5,3,4,2,3,5,3,4,4,1,3,0
+26 - 35,Male,North Central,Secondary school certificate,Self-employed,"₦50,000 - ₦99,000",1,1,1,1,4,3,3,3,2,4,4,2,2,3,4,0,4,2,4,2,2,2,3,4,3,3,4,0
+18 - 25,Male,North Central,Post Graduate,Formal full-time,"₦20,000 - ₦49,000",3,2,2,2,3,1,3,3,3,1,1,4,3,3,3,0,5,4,3,2,2,5,3,3,2,1,5,0
+26 - 35,Male,South West,Secondary school certificate,Formal full-time,"₦100,000 - ₦199,000",2,1,1,1,4,4,2,4,4,3,2,3,5,2,2,0,5,3,2,1,4,3,3,2,2,3,4,0
+36 - 46,Female,South East,B.Sc/HND/B.Eng,Formal full-time,"₦20,000 - ₦49,000",2,2,1,2,2,3,1,3,5,3,3,2,2,3,2,2,5,3,4,3,3,4,3,4,2,3,4,1
+18 - 25,Male,North West,Secondary school certificate,Retired,"Above ₦500,000",2,2,1,1,2,4,3,3,2,2,1,3,3,4,3,2,3,2,4,2,4,3,3,3,3,3,4,0
+18 - 25,Female,South East,Did not attend,Retired,"Less than ₦20,000",1,2,2,1,3,4,4,4,1,4,3,5,2,3,5,2,5,4,2,2,3,4,4,3,2,4,3,2
+18 - 25,Female,South West,B.Sc/HND/B.Eng,Self-employed,"₦50,000 - ₦99,000",3,2,1,2,2,3,3,2,2,3,2,4,4,3,2,0,3,2,2,1,4,3,2,2,5,1,4,0
+26 - 35,Male,South South,Secondary school certificate,Part-time,"₦20,000 - ₦49,000",2,2,1,1,4,4,3,5,2,3,3,2,1,3,2,2,4,3,4,2,3,2,3,2,2,3,4,1
+26 - 35,Female,South East,B.Sc/HND/B.Eng,Self-employed,"₦50,000 - ₦99,000",3,2,2,2,3,3,3,2,3,2,3,4,4,4,3,2,4,2,3,2,1,2,3,4,5,4,4,0
+26 - 35,Male,South South,Secondary school certificate,Self-employed,"Less than ₦20,000",2,2,2,1,3,3,2,3,3,2,3,2,2,3,5,0,5,5,4,3,3,4,3,3,4,5,5,0
+36 - 46,Female,South East,Post Graduate,Formal full-time,"Less than ₦20,000",3,2,3,2,3,5,2,2,3,1,2,3,3,1,2,2,3,2,4,2,4,4,4,3,4,4,4,2
+60+,Male,North East,Secondary school certificate,Unemployed and looking,"₦200,000 - ₦499,000",2,2,1,2,1,4,5,3,1,2,3,3,4,4,2,0,2,1,3,2,2,4,4,4,2,2,5,0
+26 - 35,Male,North West,B.Sc/HND/B.Eng,Formal full-time,"Less than ₦20,000",2,2,2,1,3,4,2,2,3,4,1,5,4,3,4,2,5,3,4,2,3,3,3,2,4,3,4,0
+18 - 25,Female,South East,B.Sc/HND/B.Eng,Self-employed,"₦100,000 - ₦199,000",3,2,1,2,1,2,4,2,1,2,3,2,3,3,3,0,3,2,4,2,4,2,2,3,3,3,3,0
+36 - 46,Male,South West,B.Sc/HND/B.Eng,Unemployed and looking,"₦20,000 - ₦49,000",2,1,1,1,3,2,2,2,3,1,4,4,4,4,3,0,5,3,4,2,4,3,2,3,4,2,4,0
+18 - 25,Male,North West,B.Sc/HND/B.Eng,Formal full-time,"₦50,000 - ₦99,000",2,1,1,1,2,3,4,3,1,3,2,2,2,3,3,0,4,2,3,1,2,4,4,4,4,4,3,0
+26 - 35,Female,North Central,B.Sc/HND/B.Eng,Formal full-time,"₦50,000 - ₦99,000",3,3,3,2,5,3,1,4,4,3,2,2,3,3,4,0,5,3,3,1,3,3,1,1,3,3,5,0
+18 - 25,Female,South South,B.Sc/HND/B.Eng,Student,"₦50,000 - ₦99,000",3,3,2,2,4,2,3,3,2,2,3,3,2,1,3,2,2,1,3,1,3,4,5,2,3,4,4,0
+18 - 25,Female,South West,Primary 6,Self-employed,"₦20,000 - ₦49,000",1,1,1,1,3,3,2,1,3,3,3,3,4,4,3,0,4,3,4,3,1,3,3,1,1,3,4,0
+60+,Female,North Central,Did not attend,Formal full-time,"Less than ₦20,000",1,1,1,1,4,4,1,5,4,3,4,1,4,2,4,0,5,4,4,3,4,4,4,3,2,4,5,0
+46 - 60,Female,North Central,Post Graduate,Retired,"Less than ₦20,000",3,2,2,2,2,4,3,3,3,2,3,4,4,4,3,0,5,4,4,2,4,3,3,4,4,2,2,0
+36 - 46,Male,North West,B.Sc/HND/B.Eng,Formal full-time,"₦20,000 - ₦49,000",3,2,2,2,4,2,4,3,1,4,1,1,5,4,4,0,5,4,5,3,4,4,1,3,3,2,4,0
+18 - 25,Male,North Central,Secondary school certificate,Retired,"₦200,000 - ₦499,000",2,2,1,1,3,2,1,3,4,1,5,4,3,3,2,0,4,2,2,1,2,3,4,4,4,1,4,0
+18 - 25,Female,North West,Primary 6,Formal full-time,"₦200,000 - ₦499,000",1,1,1,1,4,2,3,3,2,4,4,5,3,4,2,0,3,2,4,2,3,3,4,4,5,2,3,0
+18 - 25,Female,South East,Primary 6,Formal full-time,"₦100,000 - ₦199,000",2,2,1,1,4,2,2,3,3,3,1,3,4,2,3,0,3,2,2,1,1,3,2,3,4,2,4,0
+26 - 35,Male,North Central,B.Sc/HND/B.Eng,Formal full-time,"₦100,000 - ₦199,000",3,2,1,2,3,3,3,2,2,4,3,2,3,3,1,2,3,2,2,1,3,2,4,4,3,5,4,0
+36 - 46,Male,South South,Secondary school certificate,Part-time,"₦50,000 - ₦99,000",1,1,1,1,2,2,3,3,2,4,2,4,4,1,1,0,4,2,3,2,5,3,3,2,1,5,5,0
+36 - 46,Female,South South,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,2,1,1,2,3,2,2,3,3,2,4,1,4,1,2,5,3,4,3,3,4,2,4,5,5,3,1
+18 - 25,Male,North West,Secondary school certificate,Unemployed and looking,"₦200,000 - ₦499,000",2,1,1,1,3,2,5,2,1,3,3,3,5,3,2,1,2,1,2,1,2,3,4,5,5,3,4,0
+60+,Female,South West,Primary 6,Formal full-time,"₦50,000 - ₦99,000",1,2,1,1,3,1,3,3,2,3,3,2,3,3,3,0,3,2,3,1,2,4,2,3,3,5,4,0
+36 - 46,Female,North Central,OND,Self-employed,"₦50,000 - ₦99,000",3,3,2,2,2,5,2,3,3,2,3,2,2,4,2,0,4,2,2,1,3,3,2,1,2,3,2,0
+26 - 35,Female,South South,Secondary school certificate,Retired,"Less than ₦20,000",2,2,2,1,5,4,1,3,4,4,3,3,2,5,5,0,5,4,3,2,2,4,2,2,4,4,3,2
+26 - 35,Male,North West,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",2,2,1,1,4,3,3,4,3,2,2,4,1,4,5,1,5,4,5,3,4,3,2,4,3,3,3,1
+26 - 35,Female,South West,Secondary school certificate,Self-employed,"₦20,000 - ₦49,000",2,2,2,1,4,3,2,3,3,3,2,2,2,5,5,2,5,4,4,3,4,4,3,3,3,4,5,0
+18 - 25,Female,South West,Secondary school certificate,Part-time,"₦200,000 - ₦499,000",2,2,1,1,3,2,3,2,2,3,2,3,3,1,3,0,5,3,3,1,3,2,4,4,4,3,4,0
+26 - 35,Female,North East,Did not attend,Self-employed,"₦50,000 - ₦99,000",1,1,1,1,2,4,4,4,1,1,1,4,5,4,4,0,4,2,3,1,1,1,3,4,3,3,3,1
+36 - 46,Female,North West,Primary 6,Self-employed,"₦20,000 - ₦49,000",1,1,2,1,2,5,2,2,3,2,1,2,4,3,4,0,4,3,2,2,4,4,1,3,2,4,3,0
+18 - 25,Female,South West,Secondary school certificate,Self-employed,"Above ₦500,000",3,3,1,2,3,3,3,2,3,3,3,3,3,2,3,0,3,2,4,2,4,2,4,3,3,3,5,0
+18 - 25,Female,South East,Secondary school certificate,Formal full-time,"Less than ₦20,000",1,1,1,1,3,4,3,2,2,3,4,2,2,1,3,0,5,3,4,3,4,3,4,2,3,3,4,2
+18 - 25,Male,North East,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",3,2,2,2,2,3,5,4,1,1,2,3,2,4,1,0,2,2,3,2,4,3,3,3,4,4,3,0
+18 - 25,Female,South West,Secondary school certificate,Self-employed,"Less than ₦20,000",1,1,1,1,3,2,3,4,2,4,2,1,3,4,4,0,4,3,4,3,4,5,2,2,3,1,4,0
+46 - 60,Female,North Central,B.Sc/HND/B.Eng,Formal full-time,"₦100,000 - ₦199,000",3,2,1,2,3,3,3,3,2,3,2,4,3,4,4,0,3,2,3,1,4,4,4,4,5,3,4,0
+36 - 46,Male,South East,B.Sc/HND/B.Eng,Self-employed,"₦200,000 - ₦499,000",3,2,1,1,1,3,2,4,3,3,3,2,3,4,1,0,2,1,3,1,5,3,5,5,3,3,3,0
+26 - 35,Female,North West,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",2,1,1,1,2,3,3,2,2,2,4,2,3,2,3,0,4,3,4,3,3,4,3,2,4,4,4,0
+18 - 25,Female,South South,Did not attend,Student,"₦200,000 - ₦499,000",1,1,1,1,3,3,4,3,1,4,5,3,3,4,4,0,5,3,2,1,4,4,2,2,1,3,4,0
+26 - 35,Female,North East,Secondary school certificate,Unemployed and looking,"₦20,000 - ₦49,000",2,2,2,2,4,3,2,3,3,4,3,5,3,5,3,0,5,3,3,2,3,3,3,3,2,3,4,0
+26 - 35,Male,North Central,Primary 6,Student,"₦200,000 - ₦499,000",2,2,1,1,4,3,2,4,3,2,3,4,3,3,4,0,4,2,3,2,3,5,4,2,4,4,4,1
+18 - 25,Male,North West,Secondary school certificate,Formal full-time,"₦100,000 - ₦199,000",2,1,1,1,2,3,2,3,3,4,2,2,3,3,3,2,4,2,3,1,1,2,3,3,3,5,4,1
+26 - 35,Female,North West,Post Graduate,Self-employed,"₦100,000 - ₦199,000",3,2,1,2,4,2,3,3,2,3,2,2,2,2,2,0,4,2,4,2,2,4,3,4,3,2,3,0
+26 - 35,Female,South West,Primary 6,Self-employed,"Less than ₦20,000",1,1,1,1,2,2,4,3,1,2,3,3,3,5,5,2,5,4,5,3,3,2,4,4,2,4,3,0
+26 - 35,Male,North East,Secondary school certificate,Formal full-time,"Above ₦500,000",2,1,1,1,4,2,3,4,3,5,2,5,3,1,2,1,4,2,2,1,2,3,3,3,4,5,4,0
+26 - 35,Female,South South,B.Sc/HND/B.Eng,Formal full-time,"₦100,000 - ₦199,000",3,2,1,2,3,4,1,2,5,3,3,2,2,3,2,0,2,1,1,1,2,4,3,3,4,1,4,0
+18 - 25,Female,North West,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",2,2,1,1,3,1,3,3,3,3,3,2,3,3,2,0,5,4,2,1,3,5,3,1,4,2,4,2
+26 - 35,Female,North Central,OND,Formal full-time,"₦100,000 - ₦199,000",3,3,2,2,4,4,3,2,2,2,2,4,4,2,2,0,4,2,3,1,2,2,2,3,2,4,3,0
+26 - 35,Female,North East,Did not attend,Self-employed,"₦20,000 - ₦49,000",1,1,1,1,1,4,4,1,1,2,3,4,2,2,4,0,4,3,3,2,4,3,3,3,3,4,5,0
+26 - 35,Male,North West,Secondary school certificate,Formal full-time,"₦200,000 - ₦499,000",2,1,1,1,2,3,4,3,2,3,1,4,2,3,2,0,2,1,3,2,1,4,3,4,3,4,3,0
+36 - 46,Male,North Central,Primary 6,Formal full-time,"₦100,000 - ₦199,000",2,2,1,1,4,2,1,3,4,3,5,3,4,3,1,0,3,2,1,1,3,4,3,3,3,2,4,1
+18 - 25,Female,North Central,Secondary school certificate,Retired,"₦50,000 - ₦99,000",2,3,2,2,2,3,3,1,2,3,2,4,5,5,2,0,5,3,1,1,2,3,3,2,3,2,5,0
+18 - 25,Male,North Central,Did not attend,Student,"Less than ₦20,000",1,1,1,1,1,2,2,3,3,4,3,3,4,4,4,1,4,3,4,3,5,3,4,1,4,5,3,2
+26 - 35,Male,South West,Primary 6,Student,"Less than ₦20,000",1,1,1,1,3,2,5,1,1,3,3,4,4,5,5,0,4,3,4,3,4,5,3,2,1,2,5,0
+18 - 25,Male,South West,Secondary school certificate,Self-employed,"Less than ₦20,000",2,2,3,2,4,4,3,4,2,3,4,3,4,2,4,2,5,4,3,2,4,3,3,1,4,4,4,1
+26 - 35,Female,North West,Primary 6,Formal full-time,"₦20,000 - ₦49,000",1,1,1,1,4,3,3,2,2,4,2,2,3,2,3,1,5,4,2,2,5,4,3,4,3,2,3,0
+46 - 60,Female,North Central,OND,Self-employed,"₦20,000 - ₦49,000",2,1,1,1,3,2,2,4,3,2,1,3,4,2,2,0,5,3,4,3,3,3,3,2,3,4,4,0
+26 - 35,Male,South South,B.Sc/HND/B.Eng,Self-employed,"₦50,000 - ₦99,000",3,2,1,2,3,2,2,4,3,3,3,4,3,3,2,2,4,2,4,2,2,2,3,2,5,3,3,0
+26 - 35,Male,South West,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",2,1,1,1,4,3,2,2,3,3,3,4,4,5,3,0,4,3,4,2,4,4,3,2,2,3,4,0
+26 - 35,Female,South West,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,2,1,1,1,3,4,2,2,2,2,3,2,2,1,0,5,3,3,2,4,4,3,1,2,1,4,0
+26 - 35,Male,South East,Primary 6,Formal full-time,"Less than ₦20,000",1,2,2,1,3,2,2,2,3,3,3,2,3,3,3,0,5,4,2,2,5,3,2,2,4,3,3,2
+46 - 60,Male,South East,B.Sc/HND/B.Eng,Part-time,"₦200,000 - ₦499,000",3,2,1,1,4,3,4,3,1,2,3,2,3,3,2,0,3,2,4,2,2,4,3,3,4,1,4,0
+26 - 35,Male,South West,B.Sc/HND/B.Eng,Unemployed and looking,"₦200,000 - ₦499,000",3,2,1,2,3,5,2,2,3,1,3,3,3,1,3,2,5,3,3,1,3,2,5,2,4,5,3,1
+60+,Male,South South,Did not attend,Self-employed,"₦50,000 - ₦99,000",1,1,1,1,3,4,3,1,2,3,3,3,3,4,2,0,2,1,1,1,3,4,4,4,3,1,3,1
+46 - 60,Male,North West,Post Graduate,Self-employed,"₦50,000 - ₦99,000",3,2,1,2,1,3,2,1,3,2,3,2,3,3,3,0,5,3,3,1,2,4,3,3,4,2,4,0
+18 - 25,Female,South East,OND,Self-employed,"Less than ₦20,000",2,2,2,1,4,3,3,2,3,4,3,2,2,3,3,0,4,3,3,2,5,3,3,3,4,3,3,0
+18 - 25,Male,South East,B.Sc/HND/B.Eng,Student,"Less than ₦20,000",2,2,2,1,2,4,1,2,5,1,2,2,2,1,4,2,4,3,3,2,4,3,4,5,3,2,4,0
+18 - 25,Female,North East,B.Sc/HND/B.Eng,Student,"₦100,000 - ₦199,000",3,2,1,2,3,3,4,4,1,2,1,4,3,1,1,1,5,3,4,2,3,4,5,3,4,2,4,0
+36 - 46,Male,North West,B.Sc/HND/B.Eng,Student,"Less than ₦20,000",2,2,2,1,3,3,3,3,3,3,2,5,2,1,3,1,3,3,3,2,4,4,4,2,4,2,3,0
+18 - 25,Female,North East,Secondary school certificate,Part-time,"₦50,000 - ₦99,000",2,2,1,1,3,2,2,3,3,3,3,4,3,2,4,0,4,2,1,1,3,3,3,1,4,5,3,0
+18 - 25,Male,South East,B.Sc/HND/B.Eng,Unemployed and looking,"Above ₦500,000",2,1,1,1,2,2,3,3,3,2,2,5,3,2,4,0,3,2,3,1,3,3,4,3,5,3,2,0
+46 - 60,Female,South West,Primary 6,Self-employed,"₦200,000 - ₦499,000",1,1,1,1,3,3,3,2,3,4,3,2,3,4,3,0,4,2,4,2,2,4,3,3,3,4,3,0
+18 - 25,Male,North East,B.Sc/HND/B.Eng,Formal full-time,"₦50,000 - ₦99,000",3,2,1,2,3,3,4,3,2,2,1,5,3,3,2,0,4,2,3,1,3,3,4,4,4,3,5,0
+36 - 46,Male,North Central,OND,Student,"Less than ₦20,000",3,3,3,2,3,3,3,3,3,3,1,1,4,5,4,0,4,3,5,3,4,2,3,1,2,4,3,2
+18 - 25,Male,North West,B.Sc/HND/B.Eng,Formal full-time,"₦100,000 - ₦199,000",2,1,1,1,3,3,4,4,2,2,2,3,4,2,3,1,3,2,3,1,2,4,3,2,3,1,4,2
+18 - 25,Prefer not to say,North East,Secondary school certificate,Student,"₦50,000 - ₦99,000",2,2,2,2,3,4,5,1,1,2,3,4,3,3,3,1,3,2,3,2,3,4,3,2,3,3,3,2
+36 - 46,Male,South West,B.Sc/HND/B.Eng,Self-employed,"Less than ₦20,000",3,2,3,2,4,2,3,2,2,2,3,2,3,4,3,0,5,3,3,2,1,4,3,3,3,4,4,0
+26 - 35,Female,South South,OND,Self-employed,"Less than ₦20,000",2,2,2,2,1,5,1,2,4,4,3,2,3,4,3,0,5,4,4,2,4,3,2,3,1,2,4,0
+46 - 60,Male,South South,B.Sc/HND/B.Eng,Unemployed and looking,"₦200,000 - ₦499,000",3,3,1,2,4,1,4,3,2,3,3,2,3,2,1,0,3,2,3,1,3,3,3,3,4,4,3,0
+36 - 46,Female,North West,Primary 6,Student,"₦50,000 - ₦99,000",1,1,1,1,3,3,5,4,1,4,2,3,3,3,3,0,3,2,3,1,3,4,2,4,1,4,4,0
+36 - 46,Male,South South,Primary 6,Self-employed,"₦100,000 - ₦199,000",2,2,1,1,3,3,5,4,1,4,3,4,3,3,2,0,4,2,4,2,2,2,2,2,5,3,3,1
+18 - 25,Female,South East,Secondary school certificate,Self-employed,"₦200,000 - ₦499,000",2,2,1,1,4,2,1,2,4,2,3,3,2,1,2,0,4,2,2,1,3,2,3,4,4,2,4,1
+18 - 25,Male,South East,Secondary school certificate,Formal full-time,"₦50,000 - ₦99,000",2,2,1,2,2,3,3,2,2,5,2,3,3,3,4,0,4,3,2,1,4,3,3,4,3,2,4,0
+36 - 46,Male,North Central,B.Sc/HND/B.Eng,Self-employed,"₦50,000 - ₦99,000",3,2,2,2,2,4,1,4,5,3,4,1,4,2,4,0,3,1,2,1,4,4,3,3,4,2,4,0
+36 - 46,Male,North Central,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,1,1,1,3,1,3,3,2,3,4,3,3,4,2,0,3,2,5,3,3,3,1,4,3,2,5,0
+60+,Male,North East,Post Graduate,Unemployed and looking,"₦20,000 - ₦49,000",3,2,1,2,2,3,3,4,3,2,2,4,3,3,2,1,4,3,4,2,4,2,5,4,3,3,4,0
+26 - 35,Female,North West,Secondary school certificate,Self-employed,"₦20,000 - ₦49,000",2,1,1,1,5,1,5,4,1,4,3,2,2,5,3,1,4,3,4,3,5,3,4,4,3,2,3,2
+26 - 35,Male,North West,Secondary school certificate,Unemployed and looking,"₦100,000 - ₦199,000",2,1,1,1,2,2,2,2,3,2,5,3,2,3,2,2,4,2,2,1,1,3,3,1,3,4,4,2
+36 - 46,Female,North West,B.Sc/HND/B.Eng,Formal full-time,"₦50,000 - ₦99,000",3,2,1,2,3,4,1,2,4,3,3,3,3,2,3,0,3,2,4,2,2,3,5,5,4,3,4,2
+18 - 25,Male,North Central,B.Sc/HND/B.Eng,Formal full-time,"₦200,000 - ₦499,000",3,3,1,2,3,2,2,1,3,1,3,4,3,3,1,0,4,2,3,1,4,5,3,4,4,1,4,0
+46 - 60,Female,South East,Secondary school certificate,Unemployed and looking,"₦20,000 - ₦49,000",2,1,1,1,2,2,1,3,5,4,3,3,2,4,4,2,4,3,4,3,4,4,4,5,2,5,5,0
+46 - 60,Male,North Central,OND,Formal full-time,"₦50,000 - ₦99,000",2,2,1,1,3,3,3,4,2,2,3,2,2,1,3,1,4,2,2,1,3,4,2,4,3,4,4,0
+26 - 35,Male,North West,B.Sc/HND/B.Eng,Formal full-time,"₦50,000 - ₦99,000",3,2,1,2,3,5,1,5,4,3,3,3,2,2,2,2,4,2,3,1,1,4,4,5,4,4,2,0
+36 - 46,Female,South South,Secondary school certificate,Formal full-time,"₦50,000 - ₦99,000",2,2,1,1,3,1,2,4,3,4,2,4,4,2,3,0,4,2,3,1,3,3,2,4,3,2,3,0
+36 - 46,Male,South South,Post Graduate,Student,"₦100,000 - ₦199,000",3,1,1,1,3,2,1,4,5,4,3,4,3,3,2,2,4,2,2,1,2,2,4,4,4,4,2,0
+18 - 25,Male,South East,Post Graduate,Unemployed and looking,"Less than ₦20,000",3,2,2,2,3,4,2,2,3,4,1,3,2,4,1,0,5,3,4,3,4,2,4,5,4,4,3,2
+46 - 60,Female,South South,B.Sc/HND/B.Eng,Self-employed,"₦50,000 - ₦99,000",3,2,1,2,2,5,4,2,1,4,3,4,3,3,3,2,3,2,1,1,2,5,3,3,3,3,2,0
+26 - 35,Female,South West,Secondary school certificate,Part-time,"Less than ₦20,000",2,2,2,2,3,3,3,4,2,2,2,1,4,1,3,2,5,4,4,3,2,3,3,1,3,5,3,0
+36 - 46,Male,South South,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",2,2,1,2,5,2,2,3,4,4,3,4,4,2,2,0,4,3,4,3,1,2,3,3,5,3,2,1
+18 - 25,Male,North West,Primary 6,Student,"₦20,000 - ₦49,000",1,1,1,1,3,5,3,3,2,1,1,2,2,3,5,0,3,3,3,2,5,3,2,4,3,4,4,0
+46 - 60,Female,North Central,Did not attend,Unemployed and looking,"₦50,000 - ₦99,000",1,2,1,1,3,4,3,3,2,2,2,5,4,2,4,2,4,2,2,1,3,4,2,3,3,4,4,0
+26 - 35,Male,North West,Secondary school certificate,Formal full-time,"Above ₦500,000",2,1,1,1,4,3,4,4,2,4,4,2,3,3,5,0,3,2,3,1,3,3,4,2,3,4,4,0
+18 - 25,Male,North West,Secondary school certificate,Formal full-time,"₦50,000 - ₦99,000",1,1,1,1,2,2,2,4,3,2,2,3,4,2,4,0,4,2,3,2,3,4,2,2,4,1,4,0
+46 - 60,Male,North West,B.Sc/HND/B.Eng,Formal full-time,"₦100,000 - ₦199,000",3,1,1,1,5,3,4,4,2,1,1,4,3,4,2,0,5,3,3,1,2,3,4,3,3,3,2,0
+18 - 25,Female,South West,B.Sc/HND/B.Eng,Unemployed and looking,"₦50,000 - ₦99,000",3,2,1,2,3,3,1,3,5,4,3,4,4,1,2,0,3,2,3,2,1,4,5,4,5,2,4,0
+18 - 25,Female,South East,B.Sc/HND/B.Eng,Student,"₦50,000 - ₦99,000",2,2,1,2,5,3,2,4,4,4,2,3,2,3,2,0,4,2,5,2,2,3,2,5,4,2,5,2
+60+,Male,South West,Secondary school certificate,Formal full-time,"Less than ₦20,000",1,1,1,1,2,4,2,3,3,3,3,3,3,4,3,0,3,2,3,2,3,3,4,4,2,5,4,2
+60+,Male,North West,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,2,2,1,5,4,4,3,1,2,2,4,4,4,3,1,5,4,2,2,4,4,5,4,3,3,3,1
+26 - 35,Male,South East,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,2,2,2,4,2,2,4,3,3,4,4,1,4,2,0,4,3,4,3,3,3,3,3,3,2,2,2
+26 - 35,Female,South West,Post Graduate,Retired,"₦20,000 - ₦49,000",3,2,2,2,4,4,1,1,4,3,1,3,3,4,4,0,4,3,5,3,5,3,4,1,4,2,3,0
+26 - 35,Male,North Central,Did not attend,Part-time,"Less than ₦20,000",1,1,1,1,3,3,2,4,3,2,5,4,3,3,4,2,4,3,4,3,5,4,4,3,1,2,4,0
+18 - 25,Male,South West,B.Sc/HND/B.Eng,Student,"Less than ₦20,000",2,2,2,2,3,4,3,2,3,2,2,4,4,2,4,2,5,4,2,2,4,3,3,3,3,5,5,2
+18 - 25,Female,North East,OND,Self-employed,"₦20,000 - ₦49,000",2,2,1,1,4,4,3,3,2,1,3,2,4,1,2,2,5,4,3,2,3,3,3,2,2,3,4,0
+36 - 46,Male,North East,Secondary school certificate,Self-employed,"Above ₦500,000",2,2,1,1,3,2,3,2,3,2,2,2,4,3,3,0,4,2,2,1,4,4,2,3,2,4,4,1
+36 - 46,Female,South South,B.Sc/HND/B.Eng,Formal full-time,"₦20,000 - ₦49,000",3,2,2,2,1,3,2,3,3,4,2,3,3,2,5,0,4,3,4,3,3,5,3,3,3,4,4,0
+36 - 46,Male,North East,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",1,1,1,1,2,2,4,3,1,2,2,2,3,5,3,0,5,4,2,2,3,4,3,4,2,2,4,0
+36 - 46,Male,North Central,B.Sc/HND/B.Eng,Self-employed,"Less than ₦20,000",2,2,2,2,3,2,2,1,3,4,3,1,3,3,2,2,4,3,3,2,4,4,4,3,3,4,3,0
+18 - 25,Male,South South,Post Graduate,Student,"₦50,000 - ₦99,000",3,2,1,2,3,3,2,3,3,2,1,4,3,2,3,0,2,1,2,1,3,4,4,1,2,2,4,0
+26 - 35,Female,South East,Secondary school certificate,Unemployed and looking,"₦20,000 - ₦49,000",2,2,2,2,3,5,5,2,1,3,3,1,5,2,2,0,5,4,4,2,4,2,2,3,3,5,3,0
+18 - 25,Female,North West,Secondary school certificate,Self-employed,"Less than ₦20,000",2,2,2,1,4,1,2,4,3,2,1,3,2,5,3,1,3,3,3,2,3,4,2,3,4,4,4,0
+26 - 35,Female,North West,OND,Formal full-time,"₦50,000 - ₦99,000",2,2,1,2,1,3,1,3,4,2,3,4,3,3,4,0,4,3,3,1,2,3,5,4,3,3,4,0
+26 - 35,Male,North West,Post Graduate,Retired,"Less than ₦20,000",3,2,2,2,3,4,4,4,2,4,3,4,3,2,2,0,4,3,4,2,4,4,3,3,4,2,5,2
+46 - 60,Female,South West,Secondary school certificate,Student,"Less than ₦20,000",2,2,3,2,1,3,2,2,3,2,2,3,4,3,5,0,5,4,3,2,4,4,3,3,4,3,2,2
+26 - 35,Male,North Central,B.Sc/HND/B.Eng,Part-time,"Less than ₦20,000",3,2,2,2,4,3,2,2,3,2,3,2,3,5,3,0,5,4,4,3,3,4,3,3,5,2,4,2
+18 - 25,Male,North West,B.Sc/HND/B.Eng,Retired,"Less than ₦20,000",2,1,2,1,3,2,2,3,3,3,3,4,4,3,2,0,3,3,4,2,2,3,3,3,5,5,5,0
+18 - 25,Female,South South,B.Sc/HND/B.Eng,Self-employed,"Less than ₦20,000",3,3,3,2,4,3,2,4,3,3,4,2,4,4,4,1,4,3,3,2,3,3,5,4,3,1,4,2
+36 - 46,Male,South West,Primary 6,Self-employed,"₦20,000 - ₦49,000",1,2,2,1,2,2,4,4,1,3,2,3,4,5,4,0,4,3,5,4,4,3,2,2,2,3,4,0
+26 - 35,Male,North West,B.Sc/HND/B.Eng,Unemployed and looking,"₦100,000 - ₦199,000",3,1,1,1,4,1,4,2,1,2,5,3,2,1,3,1,5,3,3,2,5,3,2,3,4,3,4,0
+18 - 25,Male,South West,Post Graduate,Student,"₦50,000 - ₦99,000",3,2,1,2,4,4,3,4,2,3,1,3,4,2,2,0,3,2,3,1,2,5,3,3,4,2,5,0
+18 - 25,Male,South West,Secondary school certificate,Unemployed and looking,"₦50,000 - ₦99,000",2,2,1,1,4,4,1,1,4,4,2,2,4,4,3,2,3,2,4,2,2,4,1,2,4,4,3,0
+36 - 46,Male,North West,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,2,2,1,3,3,2,2,3,1,1,5,3,3,1,0,5,4,5,3,3,3,2,4,5,3,2,1
+18 - 25,Female,North East,Post Graduate,Part-time,"₦200,000 - ₦499,000",3,2,1,2,3,3,1,2,5,2,4,3,2,3,3,0,3,2,3,1,4,5,3,2,4,3,4,1
+36 - 46,Male,South East,Secondary school certificate,Student,"₦20,000 - ₦49,000",2,2,1,1,2,4,2,2,4,1,2,3,2,3,5,0,5,3,4,3,3,2,3,3,3,4,2,0
+36 - 46,Female,North Central,B.Sc/HND/B.Eng,Formal full-time,"Less than ₦20,000",3,3,3,2,4,3,3,1,2,3,3,3,3,3,1,2,3,2,3,2,3,2,3,3,3,4,5,0
+18 - 25,Female,South West,Secondary school certificate,Self-employed,"₦50,000 - ₦99,000",2,2,1,2,5,4,3,3,2,4,3,2,3,2,2,0,5,3,3,1,3,5,4,3,5,1,5,0
+18 - 25,Male,North Central,Secondary school certificate,Self-employed,"Less than ₦20,000",2,2,2,1,4,3,2,3,3,2,3,3,2,4,2,0,3,3,3,2,3,3,4,2,2,3,3,2
+60+,Male,North West,B.Sc/HND/B.Eng,Self-employed,"₦20,000 - ₦49,000",3,2,2,2,2,4,3,4,2,2,2,5,2,3,2,0,4,3,4,2,2,3,4,3,3,1,3,0
+26 - 35,Male,North West,Secondary school certificate,Self-employed,"₦50,000 - ₦99,000",2,1,1,1,3,3,2,4,3,2,2,3,3,3,1,0,4,2,3,2,2,2,3,3,3,4,4,2
+26 - 35,Female,North Central,OND,Student,"₦200,000 - ₦499,000",2,2,1,2,2,3,3,3,3,2,3,3,3,5,2,0,5,3,4,2,4,4,3,3,3,4,4,0
+36 - 46,Male,North West,Secondary school certificate,Formal full-time,"₦20,000 - ₦49,000",2,2,2,2,4,2,4,4,1,2,3,3,4,5,3,0,3,3,4,3,4,4,1,3,2,2,4,0
+46 - 60,Female,North West,OND,Formal full-time,"₦100,000 - ₦199,000",2,1,1,1,4,3,1,3,4,3,4,2,4,1,4,0,5,3,2,1,3,2,3,5,3,3,4,0
+60+,Male,South South,Secondary school certificate,Formal full-time,"Above ₦500,000",2,1,1,1,1,2,3,2,2,2,5,3,3,2,1,2,4,2,2,1,2,3,2,2,2,3,3,1
+36 - 46,Female,South South,Secondary school certificate,Student,"Less than ₦20,000",1,1,1,1,2,2,3,4,2,3,1,3,4,5,4,1,5,4,3,2,4,3,3,3,2,4,4,2
+26 - 35,Male,South East,Post Graduate,Unemployed and looking,"₦20,000 - ₦49,000",3,2,1,2,3,2,2,2,3,3,3,4,3,3,3,0,4,3,3,2,4,4,5,2,5,3,4,0
+18 - 25,Male,South South,Secondary school certificate,Part-time,"₦20,000 - ₦49,000",1,1,1,1,3,2,3,2,2,2,4,4,4,5,5,0,5,4,5,3,4,2,3,3,3,5,3,0
+36 - 46,Female,North West,B.Sc/HND/B.Eng,Student,"₦20,000 - ₦49,000",2,1,1,1,2,5,5,3,1,2,3,4,3,3,4,0,4,3,2,2,4,5,2,2,4,3,5,0
+26 - 35,Female,South South,Secondary school certificate,Student,"₦20,000 - ₦49,000",1,1,1,1,3,4,2,2,3,3,1,2,4,3,4,0,5,4,3,2,4,4,2,3,4,3,2,0
+26 - 35,Male,North West,B.Sc/HND/B.Eng,Student,"₦200,000 - ₦499,000",3,2,1,2,3,5,3,3,2,3,2,4,4,4,3,2,3,1,4,2,3,3,4,3,5,3,4,0
+46 - 60,Female,South South,Primary 6,Student,"₦100,000 - ₦199,000",2,2,1,1,3,2,2,3,3,3,3,4,3,3,2,0,3,2,3,1,2,4,3,3,2,4,4,2
+18 - 25,Male,South South,Post Graduate,Formal full-time,"₦50,000 - ₦99,000",3,2,1,2,2,3,3,3,3,2,3,2,3,3,2,1,3,2,3,1,2,3,3,2,3,1,3,1
+26 - 35,Female,South East,Secondary school certificate,Unemployed and looking,"₦20,000 - ₦49,000",2,2,2,2,4,2,3,2,2,4,3,3,4,5,4,1,4,3,3,2,2,3,3,3,2,3,4,0
+18 - 25,Female,South South,Secondary school certificate,Self-employed,"₦100,000 - ₦199,000",2,2,1,1,5,2,3,2,3,2,2,2,3,4,1,2,4,2,3,2,5,3,2,4,3,4,4,1
+26 - 35,Male,South West,Primary 6,Student,"Above ₦500,000",2,2,1,1,3,2,1,4,4,3,3,4,2,3,2,0,4,2,3,1,4,3,2,3,3,4,3,2
+18 - 25,Male,North East,Secondary school certificate,Unemployed and looking,"₦100,000 - ₦199,000",2,1,1,1,2,4,3,3,2,3,2,4,2,5,1,0,5,3,4,2,2,5,4,2,3,3,4,0
+18 - 25,Male,North Central,OND,Student,"Less than ₦20,000",2,2,2,2,4,3,4,5,1,2,3,4,2,4,4,0,3,2,2,2,3,4,2,3,3,2,3,0
+18 - 25,Female,South West,Secondary school certificate,Unemployed and looking,"₦50,000 - ₦99,000",1,1,1,1,3,4,3,4,2,2,3,3,4,2,2,0,5,3,3,1,2,4,3,4,3,3,3,0
+36 - 46,Male,South West,Secondary school certificate,Self-employed,"₦20,000 - ₦49,000",2,2,1,1,4,5,2,2,3,1,4,4,3,4,3,0,4,3,4,3,2,2,4,2,1,1,3,1
+26 - 35,Male,South South,Secondary school certificate,Retired,"Less than ₦20,000",2,2,2,1,1,1,3,4,2,4,1,2,3,3,2,1,5,4,5,3,4,3,2,2,2,4,5,0
+60+,Female,North West,B.Sc/HND/B.Eng,Student,"₦50,000 - ₦99,000",2,1,1,1,4,4,3,3,2,2,3,2,3,1,1,0,3,2,3,1,3,4,3,3,3,3,3,0
+26 - 35,Female,South East,B.Sc/HND/B.Eng,Formal full-time,"₦50,000 - ₦99,000",2,2,1,1,3,4,1,2,4,3,2,3,2,1,3,0,2,1,4,2,4,2,4,3,3,3,3,0
+18 - 25,Female,South South,Secondary school certificate,Formal full-time,"Less than ₦20,000",2,2,2,1,3,2,3,3,2,3,4,3,3,5,3,0,4,3,3,2,3,4,2,2,2,4,4,0
